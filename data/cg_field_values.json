@@ -1,0 +1,3452 @@
+[
+  {
+    "Field Name": "gender",
+    "Field Value": "m",
+    "Field Value Description": "Male"
+  },
+  {
+    "Field Name": "gender",
+    "Field Value": "f",
+    "Field Value Description": "Female"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "a1",
+    "Field Value Description": "Afrikaans"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "a2",
+    "Field Value Description": "Albanian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "a3",
+    "Field Value Description": "Amharic"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "a4",
+    "Field Value Description": "Arabic"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "a5",
+    "Field Value Description": "Armenian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "a6",
+    "Field Value Description": "Ashanti"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "a7",
+    "Field Value Description": "Azeri"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "b1",
+    "Field Value Description": "Bantu"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "b2",
+    "Field Value Description": "Basque"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "b3",
+    "Field Value Description": "Bengali"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "b4",
+    "Field Value Description": "Bulgarian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "b5",
+    "Field Value Description": "Burmese"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "c1",
+    "Field Value Description": "Chinese (Mandarin, Cantonese and other dialects)"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "c3",
+    "Field Value Description": "Czech"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "d1",
+    "Field Value Description": "Danish"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "d2",
+    "Field Value Description": "Dutch"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "d3",
+    "Field Value Description": "Dzongha"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "e1",
+    "Field Value Description": "English"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "e2",
+    "Field Value Description": "Estonian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "f1",
+    "Field Value Description": "Farsi"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "f2",
+    "Field Value Description": "Finnish"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "f3",
+    "Field Value Description": "French"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "g1",
+    "Field Value Description": "Georgian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "g2",
+    "Field Value Description": "German"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "g3",
+    "Field Value Description": "Ga"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "g4",
+    "Field Value Description": "Greek"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "h2",
+    "Field Value Description": "Hebrew"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "h3",
+    "Field Value Description": "Hindi"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "h4",
+    "Field Value Description": "Hungarian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "i1",
+    "Field Value Description": "Icelandic"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "i2",
+    "Field Value Description": "Indonesian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "i3",
+    "Field Value Description": "Italian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "j1",
+    "Field Value Description": "Japanese"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "k1",
+    "Field Value Description": "Kazakh"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "k2",
+    "Field Value Description": "Khmer"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "k3",
+    "Field Value Description": "Kirghiz"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "k4",
+    "Field Value Description": "Korean"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "l1",
+    "Field Value Description": "Laotian (Include Hmong)"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "l2",
+    "Field Value Description": "Latvian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "l3",
+    "Field Value Description": "Lithuanian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "m1",
+    "Field Value Description": "Macedonian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "m2",
+    "Field Value Description": "Malagasy"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "m3",
+    "Field Value Description": "Malay"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "m4",
+    "Field Value Description": "Moldavian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "m5",
+    "Field Value Description": "Mongolian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "n1",
+    "Field Value Description": "Nepali"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "n2",
+    "Field Value Description": "Norwegian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "o1",
+    "Field Value Description": "Oromo"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "p1",
+    "Field Value Description": "Pashto"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "p2",
+    "Field Value Description": "Polish"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "p3",
+    "Field Value Description": "Portuguese"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "r1",
+    "Field Value Description": "Romanian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "r2",
+    "Field Value Description": "Russian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "s1",
+    "Field Value Description": "Samoan"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "s2",
+    "Field Value Description": "Serbo-Croatian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "s3",
+    "Field Value Description": "Sinhalese"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "s4",
+    "Field Value Description": "Slovakian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "s5",
+    "Field Value Description": "Slovenian"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "s6",
+    "Field Value Description": "Somali"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "s7",
+    "Field Value Description": "Sotho"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "s8",
+    "Field Value Description": "Spanish"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "s9",
+    "Field Value Description": "Swahili"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "sa",
+    "Field Value Description": "Swazi"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "sb",
+    "Field Value Description": "Swedish"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "t1",
+    "Field Value Description": "Tagalog"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "t2",
+    "Field Value Description": "Tajik"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "t3",
+    "Field Value Description": "Thai"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "t4",
+    "Field Value Description": "Tibetan"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "t5",
+    "Field Value Description": "Tongan"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "t6",
+    "Field Value Description": "Turkish"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "t7",
+    "Field Value Description": "Turkmeni"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "t8",
+    "Field Value Description": "Tswana"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "u1",
+    "Field Value Description": "Urdu"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "u2",
+    "Field Value Description": "Uzbecki"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "ux",
+    "Field Value Description": "Uzbeki"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "v1",
+    "Field Value Description": "Vietnamese"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "x1",
+    "Field Value Description": "Xhosa"
+  },
+  {
+    "Field Name": "language",
+    "Field Value": "z1",
+    "Field Value Description": "Zulu"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "b",
+    "Field Value Description": "Buddhist"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "c",
+    "Field Value Description": "Catholic"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "g",
+    "Field Value Description": "Greek Orthodox"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "h",
+    "Field Value Description": "Hindu"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "i",
+    "Field Value Description": "Islamic"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "j",
+    "Field Value Description": "Jewish"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "k",
+    "Field Value Description": "Sikh"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "l",
+    "Field Value Description": "Lutheran"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "m",
+    "Field Value Description": "Mormon"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "o",
+    "Field Value Description": "Eastern Orthodox"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "p",
+    "Field Value Description": "Protestant"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "s",
+    "Field Value Description": "Shinto"
+  },
+  {
+    "Field Name": "religion",
+    "Field Value": "x",
+    "Field Value Description": "Not Known or Unmatched"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "a",
+    "Field Value Description": "Southeast Asian"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "c",
+    "Field Value Description": "Central & Southwest Asian"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "e",
+    "Field Value Description": "Eastern European"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "f",
+    "Field Value Description": "All African American Ethnic Groups"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "i",
+    "Field Value Description": "Middle Eastern"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "j",
+    "Field Value Description": "Jewish"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "m",
+    "Field Value Description": "Mediterranean"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "n",
+    "Field Value Description": "Native American"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "o",
+    "Field Value Description": "Far Eastern"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "p",
+    "Field Value Description": "Polynesian"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "s",
+    "Field Value Description": "Scandinavian"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "t",
+    "Field Value Description": "Other"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "w",
+    "Field Value Description": "Western European"
+  },
+  {
+    "Field Name": "ethnic_group",
+    "Field Value": "y",
+    "Field Value Description": "Hispanic"
+  },
+  {
+    "Field Name": "ethnic_language",
+    "Field Value": "a",
+    "Field Value Description": "Assimilated - English Speaking"
+  },
+  {
+    "Field Name": "ethnic_language",
+    "Field Value": "b",
+    "Field Value Description": "Bilingual - English Primary"
+  },
+  {
+    "Field Name": "ethnic_language",
+    "Field Value": "c",
+    "Field Value Description": "Bilingual - Native Language Primary"
+  },
+  {
+    "Field Name": "ethnic_language",
+    "Field Value": "d",
+    "Field Value Description": "Unassimilated - Native Language Only"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "ha",
+    "Field Value Description": "Argentina"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hb",
+    "Field Value Description": "Bolivia"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hc",
+    "Field Value Description": "Cuba"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hd",
+    "Field Value Description": "Dominican Republic"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "he",
+    "Field Value Description": "El Salvador"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hg",
+    "Field Value Description": "Guatemala"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hh",
+    "Field Value Description": "Honduras"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hj",
+    "Field Value Description": "Colombia"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hk",
+    "Field Value Description": "Panama"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hl",
+    "Field Value Description": "Ecuador"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hm",
+    "Field Value Description": "Mexico"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hn",
+    "Field Value Description": "Nicaragua"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hp",
+    "Field Value Description": "Puerto Rico"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hq",
+    "Field Value Description": "Chile"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hr",
+    "Field Value Description": "Costa Rica"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hs",
+    "Field Value Description": "Spain"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hu",
+    "Field Value Description": "Uruguay"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hv",
+    "Field Value Description": "Venezuela"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hx",
+    "Field Value Description": "Peru"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hy",
+    "Field Value Description": "Paraguay"
+  },
+  {
+    "Field Name": "ethnic_hispanic_country",
+    "Field Value": "hz",
+    "Field Value Description": "Brazil"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": 0,
+    "Field Value Description": "Unknown"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "c1",
+    "Field Value Description": "Afghani"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "c2",
+    "Field Value Description": "Bengladesh"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "c3",
+    "Field Value Description": "Indian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "c4",
+    "Field Value Description": "Pakistani"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "c5",
+    "Field Value Description": "Sri Lankan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "c6",
+    "Field Value Description": "Nepal"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "c7",
+    "Field Value Description": "Telugan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "d0",
+    "Field Value Description": "Algerian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "d1",
+    "Field Value Description": "Arab"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "d3",
+    "Field Value Description": "Egyptian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "d4",
+    "Field Value Description": "Greek"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "d5",
+    "Field Value Description": "Iraqi"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "d6",
+    "Field Value Description": "Kurdish"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "d7",
+    "Field Value Description": "Jewish"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "d8",
+    "Field Value Description": "Kuwaiti"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "d9",
+    "Field Value Description": "Libyan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "de",
+    "Field Value Description": "Macedonian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "df",
+    "Field Value Description": "Moroccan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "dg",
+    "Field Value Description": "Qatar"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "dh",
+    "Field Value Description": "Persian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "dj",
+    "Field Value Description": "Saudi"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "dk",
+    "Field Value Description": "Syrian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "dl",
+    "Field Value Description": "Tunisian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "dm",
+    "Field Value Description": "Turkish"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "dn",
+    "Field Value Description": "Yemeni"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "dq",
+    "Field Value Description": "N/A"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "dr",
+    "Field Value Description": "N/A"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ds",
+    "Field Value Description": "Maltese"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ks",
+    "Field Value Description": "Native American"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "m0",
+    "Field Value Description": "African American 1"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "m1",
+    "Field Value Description": "Angolan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "m2",
+    "Field Value Description": "Ashanti"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "m3",
+    "Field Value Description": "Basotho"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "m4",
+    "Field Value Description": "Benin"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "m5",
+    "Field Value Description": "Bhutanese"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "m6",
+    "Field Value Description": "Burkina Faso"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "m7",
+    "Field Value Description": "Burundi"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "m8",
+    "Field Value Description": "Cameroon"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "m9",
+    "Field Value Description": "Cent Afric Rep"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ma",
+    "Field Value Description": "Chad"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mb",
+    "Field Value Description": "Comoros"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mc",
+    "Field Value Description": "Congo"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "md",
+    "Field Value Description": "Equat Guinea"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "me",
+    "Field Value Description": "Ethiopian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mf",
+    "Field Value Description": "Gabon"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mg",
+    "Field Value Description": "Gambia"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mh",
+    "Field Value Description": "Ghana"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mj",
+    "Field Value Description": "Guinea-Bissea"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mk",
+    "Field Value Description": "Guyana"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ml",
+    "Field Value Description": "Ivory Coast"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mm",
+    "Field Value Description": "Kenya"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mn",
+    "Field Value Description": "Lesotho"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mo",
+    "Field Value Description": "Liberian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mp",
+    "Field Value Description": "Madagascar"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mq",
+    "Field Value Description": "Malawi"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mr",
+    "Field Value Description": "Mali"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ms",
+    "Field Value Description": "Namibian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mt",
+    "Field Value Description": "Nigerian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mu",
+    "Field Value Description": "Mozambique"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mv",
+    "Field Value Description": "Papua New Guinea"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mw",
+    "Field Value Description": "Ruandan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mx",
+    "Field Value Description": "Senegalese"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "my",
+    "Field Value Description": "Siere Leone"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "mz",
+    "Field Value Description": "Somalia"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "n1",
+    "Field Value Description": "Danish"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "n2",
+    "Field Value Description": "Dutch"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "n3",
+    "Field Value Description": "Finnish"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "n4",
+    "Field Value Description": "Icelandic"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "n5",
+    "Field Value Description": "Norwegian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "n6",
+    "Field Value Description": "Scotch"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "n7",
+    "Field Value Description": "Swedish"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "n8",
+    "Field Value Description": "Welsh"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "r1",
+    "Field Value Description": "Aleut"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "r2",
+    "Field Value Description": "Myanmar"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "r3",
+    "Field Value Description": "Chinese"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "r5",
+    "Field Value Description": "Hawaiian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "r6",
+    "Field Value Description": "Indonesian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "r7",
+    "Field Value Description": "Japanese"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "r8",
+    "Field Value Description": "Khmer"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "r9",
+    "Field Value Description": "Korean"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ra",
+    "Field Value Description": "Laotian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "rb",
+    "Field Value Description": "Malay"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "rc",
+    "Field Value Description": "Mongolian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "rd",
+    "Field Value Description": "Other Asian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "re",
+    "Field Value Description": "Filipino"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "rf",
+    "Field Value Description": "Thai"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "rg",
+    "Field Value Description": "Tibetan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "rh",
+    "Field Value Description": "Vietnamese"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "rj",
+    "Field Value Description": "Maldivian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "rk",
+    "Field Value Description": "Nauruan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "rm",
+    "Field Value Description": "New Zealand"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "rp",
+    "Field Value Description": "Australian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "rq",
+    "Field Value Description": "Vanuatuan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "t1",
+    "Field Value Description": "Belgian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "t2",
+    "Field Value Description": "Basque"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "t3",
+    "Field Value Description": "English"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "t4",
+    "Field Value Description": "French"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "t5",
+    "Field Value Description": "German"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "t6",
+    "Field Value Description": "Irish"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "t7",
+    "Field Value Description": "Italian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "t8",
+    "Field Value Description": "Portuguese"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "t9",
+    "Field Value Description": "Hispanic"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "tf",
+    "Field Value Description": "Luxembourgian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "th",
+    "Field Value Description": "Swiss"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "tj",
+    "Field Value Description": "Manx"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "u0",
+    "Field Value Description": "Albanian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "u1",
+    "Field Value Description": "Armenian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "u2",
+    "Field Value Description": "Austrian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "u3",
+    "Field Value Description": "Azerb"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "u4",
+    "Field Value Description": "Bosnian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "u5",
+    "Field Value Description": "Bulgarian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "u6",
+    "Field Value Description": "Byelorussian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "u7",
+    "Field Value Description": "Chechnian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "u8",
+    "Field Value Description": "Croatian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "u9",
+    "Field Value Description": "Czech"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ua",
+    "Field Value Description": "Estonian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ub",
+    "Field Value Description": "Georgian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "uc",
+    "Field Value Description": "Hungarian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ud",
+    "Field Value Description": "Kazakh"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ue",
+    "Field Value Description": "Kirghiz"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "uf",
+    "Field Value Description": "Kyrgyzstani"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ug",
+    "Field Value Description": "Latvian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "uh",
+    "Field Value Description": "Lithuanian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ui",
+    "Field Value Description": "Moldavian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "uj",
+    "Field Value Description": "Polish"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "uk",
+    "Field Value Description": "Romanian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ul",
+    "Field Value Description": "Russian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "um",
+    "Field Value Description": "Serbian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "un",
+    "Field Value Description": "Slovakian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "up",
+    "Field Value Description": "Slovenian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "uq",
+    "Field Value Description": "Tajikistan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ur",
+    "Field Value Description": "Tajik"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "ut",
+    "Field Value Description": "Turkmenistan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "uv",
+    "Field Value Description": "Ukrainian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "uw",
+    "Field Value Description": "Uzbekistani"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "w0",
+    "Field Value Description": "South African"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "w1",
+    "Field Value Description": "Surinam"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "w2",
+    "Field Value Description": "Sudanese"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "w3",
+    "Field Value Description": "Swaziland"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "w4",
+    "Field Value Description": "Tanzanian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "w5",
+    "Field Value Description": "Togo"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "w6",
+    "Field Value Description": "Tonga"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "w7",
+    "Field Value Description": "Ugandan"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "w8",
+    "Field Value Description": "Xhosa"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "w9",
+    "Field Value Description": "Zaire"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "wa",
+    "Field Value Description": "Zambian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "wb",
+    "Field Value Description": "Zimbabwe"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "wc",
+    "Field Value Description": "Zulu"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "we",
+    "Field Value Description": "Djibouti"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "wf",
+    "Field Value Description": "Guinean"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "wg",
+    "Field Value Description": "Mauritania"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "wh",
+    "Field Value Description": "Niger"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "wj",
+    "Field Value Description": "Seychelles"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "wk",
+    "Field Value Description": "Western Samoa"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "wl",
+    "Field Value Description": "African American 2"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "wm",
+    "Field Value Description": "Botswanian"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "wp",
+    "Field Value Description": "Caribbean African American"
+  },
+  {
+    "Field Name": "ethnic_origin",
+    "Field Value": "xx",
+    "Field Value Description": "Multi-Ethnic"
+  },
+  {
+    "Field Name": "education",
+    "Field Value": "a",
+    "Field Value Description": "High School Graduate"
+  },
+  {
+    "Field Name": "education",
+    "Field Value": "b",
+    "Field Value Description": "College Graduate"
+  },
+  {
+    "Field Name": "education",
+    "Field Value": "c",
+    "Field Value Description": "Graduate School Graduate"
+  },
+  {
+    "Field Name": "education",
+    "Field Value": "d",
+    "Field Value Description": "Vocational/Technical School Graduate"
+  },
+  {
+    "Field Name": "marital_status",
+    "Field Value": "a",
+    "Field Value Description": "Inferred Married"
+  },
+  {
+    "Field Name": "marital_status",
+    "Field Value": "b",
+    "Field Value Description": "Inferred Single"
+  },
+  {
+    "Field Name": "marital_status",
+    "Field Value": "m",
+    "Field Value Description": "Married"
+  },
+  {
+    "Field Name": "marital_status",
+    "Field Value": "s",
+    "Field Value Description": "Single"
+  },
+  {
+    "Field Name": "hh_generations",
+    "Field Value": 1,
+    "Field Value Description": "1 Adult"
+  },
+  {
+    "Field Name": "hh_generations",
+    "Field Value": 2,
+    "Field Value Description": "Adult / Child"
+  },
+  {
+    "Field Name": "hh_generations",
+    "Field Value": 3,
+    "Field Value Description": "Adults / Child / Parent"
+  },
+  {
+    "Field Name": "home_ownership",
+    "Field Value": "h",
+    "Field Value Description": "Homeowner"
+  },
+  {
+    "Field Name": "home_ownership",
+    "Field Value": "r",
+    "Field Value Description": "Renter"
+  },
+  {
+    "Field Name": "dwelling_type",
+    "Field Value": "a",
+    "Field Value Description": "N/A"
+  },
+  {
+    "Field Name": "dwelling_type",
+    "Field Value": "b",
+    "Field Value Description": "N/A"
+  },
+  {
+    "Field Name": "dwelling_type",
+    "Field Value": "c",
+    "Field Value Description": "N/A"
+  },
+  {
+    "Field Name": "dwelling_type",
+    "Field Value": "m",
+    "Field Value Description": "Multi-Unit Residential Home"
+  },
+  {
+    "Field Name": "dwelling_type",
+    "Field Value": "n",
+    "Field Value Description": "N/A"
+  },
+  {
+    "Field Name": "dwelling_type",
+    "Field Value": "p",
+    "Field Value Description": "N/A"
+  },
+  {
+    "Field Name": "dwelling_type",
+    "Field Value": "s",
+    "Field Value Description": "Single-Family Home"
+  },
+  {
+    "Field Name": "dwelling_type",
+    "Field Value": "t",
+    "Field Value Description": "N/A"
+  },
+  {
+    "Field Name": "dwelling_type",
+    "Field Value": "w",
+    "Field Value Description": "N/A"
+  },
+  {
+    "Field Name": "dwelling_type",
+    "Field Value": "x",
+    "Field Value Description": "N/A"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "a",
+    "Field Value Description": "Central"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "b",
+    "Field Value Description": "Central and Unit"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "c",
+    "Field Value Description": "Dual Unit"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "d",
+    "Field Value Description": "Evaporative"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "e",
+    "Field Value Description": "Heat Pump"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "f",
+    "Field Value Description": "Refrigeration"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "g",
+    "Field Value Description": "Package"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "h",
+    "Field Value Description": "Separate System"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "i",
+    "Field Value Description": "Split System"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "j",
+    "Field Value Description": "Wall Unit"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "k",
+    "Field Value Description": "Window Unit"
+  },
+  {
+    "Field Name": "property_ac_type",
+    "Field Value": "l",
+    "Field Value Description": "Wall/Window Unit"
+  },
+  {
+    "Field Name": "property_fuel_type",
+    "Field Value": "e",
+    "Field Value Description": "Electric"
+  },
+  {
+    "Field Name": "property_fuel_type",
+    "Field Value": "g",
+    "Field Value Description": "Gas"
+  },
+  {
+    "Field Name": "property_fuel_type",
+    "Field Value": "o",
+    "Field Value Description": "Oil"
+  },
+  {
+    "Field Name": "property_fuel_type",
+    "Field Value": "p",
+    "Field Value Description": "Gas Public/Piped"
+  },
+  {
+    "Field Name": "property_water_type",
+    "Field Value": 1,
+    "Field Value Description": "Commercial"
+  },
+  {
+    "Field Name": "property_water_type",
+    "Field Value": 2,
+    "Field Value Description": "Private"
+  },
+  {
+    "Field Name": "property_water_type",
+    "Field Value": 3,
+    "Field Value Description": "Public"
+  },
+  {
+    "Field Name": "property_water_type",
+    "Field Value": 4,
+    "Field Value Description": "Well"
+  },
+  {
+    "Field Name": "property_sewer_type",
+    "Field Value": 1,
+    "Field Value Description": "Commercial"
+  },
+  {
+    "Field Name": "property_sewer_type",
+    "Field Value": 2,
+    "Field Value Description": "Private"
+  },
+  {
+    "Field Name": "property_sewer_type",
+    "Field Value": 3,
+    "Field Value Description": "Public"
+  },
+  {
+    "Field Name": "property_sewer_type",
+    "Field Value": 4,
+    "Field Value Description": "Septic"
+  },
+  {
+    "Field Name": "credit_rating",
+    "Field Value": "a",
+    "Field Value Description": "800+"
+  },
+  {
+    "Field Name": "credit_rating",
+    "Field Value": "b",
+    "Field Value Description": "750 - 799"
+  },
+  {
+    "Field Name": "credit_rating",
+    "Field Value": "c",
+    "Field Value Description": "700 - 749"
+  },
+  {
+    "Field Name": "credit_rating",
+    "Field Value": "d",
+    "Field Value Description": "650 - 699"
+  },
+  {
+    "Field Name": "credit_rating",
+    "Field Value": "e",
+    "Field Value Description": "600 - 649"
+  },
+  {
+    "Field Name": "credit_rating",
+    "Field Value": "f",
+    "Field Value Description": "550 - 599"
+  },
+  {
+    "Field Name": "credit_rating",
+    "Field Value": "g",
+    "Field Value Description": "500-549"
+  },
+  {
+    "Field Name": "credit_rating",
+    "Field Value": "h",
+    "Field Value Description": "Under 499"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "a",
+    "Field Value Description": "Under $10,000"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "b",
+    "Field Value Description": "$10,000 - $14,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "c",
+    "Field Value Description": "$15,000 - $19,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "d",
+    "Field Value Description": "$20,000 - $24,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "e",
+    "Field Value Description": "$25,000 - $29,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "f",
+    "Field Value Description": "$30,000 - $34,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "g",
+    "Field Value Description": "$35,000 - $39,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "h",
+    "Field Value Description": "$40,000 - $44,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "i",
+    "Field Value Description": "$45,000 - $49,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "j",
+    "Field Value Description": "$50,000 - $54,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "k",
+    "Field Value Description": "$55,000 - $59,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "l",
+    "Field Value Description": "$60,000 - $64,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "m",
+    "Field Value Description": "$65,000 - $74,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "n",
+    "Field Value Description": "$75,000 - $99,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "o",
+    "Field Value Description": "$100,000 - $149,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "p",
+    "Field Value Description": "$150,000 - $174,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "q",
+    "Field Value Description": "$175,000 - $199,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "r",
+    "Field Value Description": "$200,000 - $249,999"
+  },
+  {
+    "Field Name": "hh_income_group",
+    "Field Value": "s",
+    "Field Value Description": "$250,000 +"
+  },
+  {
+    "Field Name": "net_worth_group",
+    "Field Value": "a",
+    "Field Value Description": "Less than $1"
+  },
+  {
+    "Field Name": "net_worth_group",
+    "Field Value": "b",
+    "Field Value Description": "$1 - $4,999"
+  },
+  {
+    "Field Name": "net_worth_group",
+    "Field Value": "c",
+    "Field Value Description": "$5,000 - $9,999"
+  },
+  {
+    "Field Name": "net_worth_group",
+    "Field Value": "d",
+    "Field Value Description": "$10,000 - $24,999"
+  },
+  {
+    "Field Name": "net_worth_group",
+    "Field Value": "e",
+    "Field Value Description": "$25,000 - $49,999"
+  },
+  {
+    "Field Name": "net_worth_group",
+    "Field Value": "f",
+    "Field Value Description": "$50,000 - $99,999"
+  },
+  {
+    "Field Name": "net_worth_group",
+    "Field Value": "g",
+    "Field Value Description": "$100,000 - $249,999"
+  },
+  {
+    "Field Name": "net_worth_group",
+    "Field Value": "h",
+    "Field Value Description": "$250,000 - $499,999"
+  },
+  {
+    "Field Name": "net_worth_group",
+    "Field Value": "i",
+    "Field Value Description": "Greater than $499,999"
+  },
+  {
+    "Field Name": "occupation_business_owner",
+    "Field Value": 1,
+    "Field Value Description": "Accountant"
+  },
+  {
+    "Field Name": "occupation_business_owner",
+    "Field Value": 2,
+    "Field Value Description": "Builder"
+  },
+  {
+    "Field Name": "occupation_business_owner",
+    "Field Value": 3,
+    "Field Value Description": "Contractor"
+  },
+  {
+    "Field Name": "occupation_business_owner",
+    "Field Value": 4,
+    "Field Value Description": "Dealer/Retailer/Storekeeper"
+  },
+  {
+    "Field Name": "occupation_business_owner",
+    "Field Value": 5,
+    "Field Value Description": "Distributor/Wholesaler"
+  },
+  {
+    "Field Name": "occupation_business_owner",
+    "Field Value": 6,
+    "Field Value Description": "Funeral Director"
+  },
+  {
+    "Field Name": "occupation_business_owner",
+    "Field Value": 7,
+    "Field Value Description": "Maker/Manufacturer"
+  },
+  {
+    "Field Name": "occupation_business_owner",
+    "Field Value": 8,
+    "Field Value Description": "Owner"
+  },
+  {
+    "Field Name": "occupation_business_owner",
+    "Field Value": 9,
+    "Field Value Description": "Partner"
+  },
+  {
+    "Field Name": "occupation_business_owner",
+    "Field Value": "a",
+    "Field Value Description": "Self-Employed"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "a194",
+    "Field Value Description": "Coast Guard"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "a197",
+    "Field Value Description": "Navy Credit Union Trades"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "a198",
+    "Field Value Description": "Army Credit Union Trades"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "a199",
+    "Field Value Description": "Armed Forces"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "c120",
+    "Field Value Description": "Police/Trooper"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "c121",
+    "Field Value Description": "Mail/Postmaster"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "c122",
+    "Field Value Description": "Mail Carrier/Postal"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "c123",
+    "Field Value Description": "Judge/Referee"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "c124",
+    "Field Value Description": "Firefighter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "c125",
+    "Field Value Description": "Court Reporter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "c126",
+    "Field Value Description": "Corrections/Probation/Parole"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "c127",
+    "Field Value Description": "Civil Service/Government"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "c128",
+    "Field Value Description": "Air Traffic Control"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "e793",
+    "Field Value Description": "Vice President"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "e794",
+    "Field Value Description": "Treasurer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "e795",
+    "Field Value Description": "President"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "e796",
+    "Field Value Description": "Politician/Legislator/Diplomat"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "e797",
+    "Field Value Description": "Comptroller"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "e798",
+    "Field Value Description": "CEO/CFO/Chairman/Corp Officer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "e799",
+    "Field Value Description": "Executive/Upper Management"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h326",
+    "Field Value Description": "Social Worker/Case Worker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h327",
+    "Field Value Description": "Nurse/LPN"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h328",
+    "Field Value Description": "Nurse (Registered)"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h329",
+    "Field Value Description": "Nurse"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h330",
+    "Field Value Description": "Therapists/Physical"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h331",
+    "Field Value Description": "Therapist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h332",
+    "Field Value Description": "Technician/X-ray"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h333",
+    "Field Value Description": "Technician/Lab"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h334",
+    "Field Value Description": "Psychologist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h335",
+    "Field Value Description": "Pharmacist/Pharmacy"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h336",
+    "Field Value Description": "Optometrist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h337",
+    "Field Value Description": "Optician"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h338",
+    "Field Value Description": "Nurses Aide/Orderly"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h339",
+    "Field Value Description": "Medical/Paramedic"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h340",
+    "Field Value Description": "Medical Technician"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h341",
+    "Field Value Description": "Medical Secretary"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h342",
+    "Field Value Description": "Medical Assistant"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h343",
+    "Field Value Description": "Health Care"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h344",
+    "Field Value Description": "Dietician"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h345",
+    "Field Value Description": "Dentist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h346",
+    "Field Value Description": "Dental Hygienist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h347",
+    "Field Value Description": "Dental Assistant"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "h348",
+    "Field Value Description": "Chiropractor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "i143",
+    "Field Value Description": "Trainer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "i144",
+    "Field Value Description": "Teacher"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "i145",
+    "Field Value Description": "Professor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "i146",
+    "Field Value Description": "Lecturer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "i147",
+    "Field Value Description": "Instructor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "i148",
+    "Field Value Description": "Counselor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "i149",
+    "Field Value Description": "Coach"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l394",
+    "Field Value Description": "Welder"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l395",
+    "Field Value Description": "Waiter/Waitress"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l396",
+    "Field Value Description": "Utility"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l397",
+    "Field Value Description": "Upholstery"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l398",
+    "Field Value Description": "Typesetter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l399",
+    "Field Value Description": "Transportation"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l400",
+    "Field Value Description": "Toolmaker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l401",
+    "Field Value Description": "Sorter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l402",
+    "Field Value Description": "Shipping/Import/Export/Custom"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l403",
+    "Field Value Description": "Sheet Metal Worker/Steel Worker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l404",
+    "Field Value Description": "Setup man"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l405",
+    "Field Value Description": "Seamstress/Tailor/Handicraft"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l406",
+    "Field Value Description": "Sanitation/Exterminator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l407",
+    "Field Value Description": "Roofer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l408",
+    "Field Value Description": "Repairman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l409",
+    "Field Value Description": "Production"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l410",
+    "Field Value Description": "Printer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l411",
+    "Field Value Description": "Presser"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l412",
+    "Field Value Description": "Press Operator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l413",
+    "Field Value Description": "Porter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l414",
+    "Field Value Description": "Polisher"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l415",
+    "Field Value Description": "Plumber"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l416",
+    "Field Value Description": "Pipe fitter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l417",
+    "Field Value Description": "Parts (Auto Etc.)"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l418",
+    "Field Value Description": "Painter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l419",
+    "Field Value Description": "Packer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l420",
+    "Field Value Description": "Operator/Machine Operator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l421",
+    "Field Value Description": "Operator/Forklift Operator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l422",
+    "Field Value Description": "Operator/Crane Operator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l423",
+    "Field Value Description": "Operator/Boilermaker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l424",
+    "Field Value Description": "Operator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l425",
+    "Field Value Description": "Oil Industry/Driller"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l426",
+    "Field Value Description": "Mold Maker/Molder/Injection Mold"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l427",
+    "Field Value Description": "Miner"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l428",
+    "Field Value Description": "Millwright"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l429",
+    "Field Value Description": "Mill worker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l430",
+    "Field Value Description": "Meter Reader"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l431",
+    "Field Value Description": "Mechanic"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l432",
+    "Field Value Description": "Material Handler"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l433",
+    "Field Value Description": "Mason/Brick/Etc."
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l434",
+    "Field Value Description": "Maintenance/Supervisor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l435",
+    "Field Value Description": "Maintenance"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l436",
+    "Field Value Description": "Machinist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l437",
+    "Field Value Description": "Locksmith"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l438",
+    "Field Value Description": "Loader"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l439",
+    "Field Value Description": "Lithographer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l440",
+    "Field Value Description": "Lineman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l441",
+    "Field Value Description": "Laborer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l442",
+    "Field Value Description": "Journeyman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l443",
+    "Field Value Description": "Janitor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l444",
+    "Field Value Description": "Ironworker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l445",
+    "Field Value Description": "Installer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l446",
+    "Field Value Description": "Inspector"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l447",
+    "Field Value Description": "Housekeeper/Maid"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l448",
+    "Field Value Description": "Helper"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l449",
+    "Field Value Description": "Grocer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l450",
+    "Field Value Description": "Grinder"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l451",
+    "Field Value Description": "Glazier"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l452",
+    "Field Value Description": "Gardener/Landscaper"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l453",
+    "Field Value Description": "Furrier"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l454",
+    "Field Value Description": "Foundry Worker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l455",
+    "Field Value Description": "Forestry"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l456",
+    "Field Value Description": "Foreman/Shop Foreman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l457",
+    "Field Value Description": "Foreman/Crew leader"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l458",
+    "Field Value Description": "Food Service"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l459",
+    "Field Value Description": "Fitter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l460",
+    "Field Value Description": "Fisherman/Seaman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l461",
+    "Field Value Description": "Finisher"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l462",
+    "Field Value Description": "Farmer/Dairyman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l463",
+    "Field Value Description": "Factory Workman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l464",
+    "Field Value Description": "Fabricator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l465",
+    "Field Value Description": "Electrician"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l466",
+    "Field Value Description": "Driver/Truck Driver"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l467",
+    "Field Value Description": "Driver/Bus Driver"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l468",
+    "Field Value Description": "Driver"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l469",
+    "Field Value Description": "Dock Worker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l470",
+    "Field Value Description": "Cutter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l471",
+    "Field Value Description": "Custodian"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l472",
+    "Field Value Description": "Crewman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l473",
+    "Field Value Description": "Courier/Delivery/Messenger"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l474",
+    "Field Value Description": "Cosmetologist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l475",
+    "Field Value Description": "Cook"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l476",
+    "Field Value Description": "Construction"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l477",
+    "Field Value Description": "Conductor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l478",
+    "Field Value Description": "Clerk/Stock"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l479",
+    "Field Value Description": "Clerk/Produce"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l480",
+    "Field Value Description": "Clerk/Deli"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l481",
+    "Field Value Description": "Cleaner/Laundry"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l482",
+    "Field Value Description": "Child Care/Day Care/Babysitter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l483",
+    "Field Value Description": "Chef/Butler"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l484",
+    "Field Value Description": "Carpenter/Furniture/Woodworking"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l485",
+    "Field Value Description": "Butcher/Meat Cutter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l486",
+    "Field Value Description": "Brewer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l487",
+    "Field Value Description": "Brakeman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l488",
+    "Field Value Description": "Bodyman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l489",
+    "Field Value Description": "Binder"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l490",
+    "Field Value Description": "Bartender"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l491",
+    "Field Value Description": "Barber/Hairstylist/Beautician"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l492",
+    "Field Value Description": "Baker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l493",
+    "Field Value Description": "Auto Mechanic"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l494",
+    "Field Value Description": "Attendant"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l495",
+    "Field Value Description": "Athlete/Professional"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l496",
+    "Field Value Description": "Assembler"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l497",
+    "Field Value Description": "Apprentice"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "l498",
+    "Field Value Description": "Animal Technician/Groomer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m673",
+    "Field Value Description": "Supervisor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m674",
+    "Field Value Description": "Superintendent"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m675",
+    "Field Value Description": "Principal/Dean/Educator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m676",
+    "Field Value Description": "Planner"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m677",
+    "Field Value Description": "Manager/Warehouse Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m678",
+    "Field Value Description": "Manager/Traffic Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m679",
+    "Field Value Description": "Manager/Store Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m680",
+    "Field Value Description": "Manager/Sales Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m681",
+    "Field Value Description": "Manager/Regional Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m682",
+    "Field Value Description": "Manager/Property Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m683",
+    "Field Value Description": "Manager/Project Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m684",
+    "Field Value Description": "Manager/Product Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m685",
+    "Field Value Description": "Manager/Plant Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m686",
+    "Field Value Description": "Manager/Office Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m687",
+    "Field Value Description": "Manager/Marketing Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m688",
+    "Field Value Description": "Manger/General Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m689",
+    "Field Value Description": "Manager/Division Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m690",
+    "Field Value Description": "Manager/District Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m691",
+    "Field Value Description": "Manager/Credit Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m692",
+    "Field Value Description": "Manager/Branch Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m693",
+    "Field Value Description": "Manager/Assistant Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m694",
+    "Field Value Description": "Manager"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m695",
+    "Field Value Description": "Editor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m696",
+    "Field Value Description": "Director/Executive Director"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m697",
+    "Field Value Description": "Director/Art Director"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "m698",
+    "Field Value Description": "Account Executive"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "p244",
+    "Field Value Description": "Volunteer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "p245",
+    "Field Value Description": "Student"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "p246",
+    "Field Value Description": "Part Time"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "p247",
+    "Field Value Description": "Retired/Pensioner"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "p249",
+    "Field Value Description": "Homemaker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "s295",
+    "Field Value Description": "Data Entry/Key Punch"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "s296",
+    "Field Value Description": "Typist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "s297",
+    "Field Value Description": "Secretary"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "s298",
+    "Field Value Description": "Legal Secretary"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "s299",
+    "Field Value Description": "Legal/Paralegal/Assistant"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t896",
+    "Field Value Description": "Computer/Systems Analyst"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t897",
+    "Field Value Description": "Computer Programmer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t898",
+    "Field Value Description": "Computer Operator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t978",
+    "Field Value Description": "Veterinarian"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t979",
+    "Field Value Description": "Statistician/Actuary"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t980",
+    "Field Value Description": "Scientist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t981",
+    "Field Value Description": "Pilot"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t982",
+    "Field Value Description": "Pastor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t983",
+    "Field Value Description": "Medical Doctor/Physician"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t984",
+    "Field Value Description": "Librarian/Archivist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t985",
+    "Field Value Description": "Legal/Attorney/Lawyer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t987",
+    "Field Value Description": "Geologist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t988",
+    "Field Value Description": "Engineer/Mechanical"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t989",
+    "Field Value Description": "Engineer/Industrial"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t990",
+    "Field Value Description": "Engineer/Field"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t991",
+    "Field Value Description": "Engineer/Electrical/Electronic"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t992",
+    "Field Value Description": "Engineer/Civil"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t993",
+    "Field Value Description": "Engineer/Chemical"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t994",
+    "Field Value Description": "Engineer/Aerospace"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t995",
+    "Field Value Description": "Engineer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t996",
+    "Field Value Description": "Curator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t997",
+    "Field Value Description": "Chemist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "t998",
+    "Field Value Description": "Architect"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w520",
+    "Field Value Description": "Writer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w521",
+    "Field Value Description": "Water Treatment"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w522",
+    "Field Value Description": "Ward Clerk"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w523",
+    "Field Value Description": "Union Member/Rep."
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w524",
+    "Field Value Description": "Travel Agent"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w525",
+    "Field Value Description": "Transcripter/Translator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w526",
+    "Field Value Description": "Tester"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w527",
+    "Field Value Description": "Teller/Bank Teller"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w528",
+    "Field Value Description": "Telemarketer/Telephone/Operator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w529",
+    "Field Value Description": "Technician"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w530",
+    "Field Value Description": "Surveyor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w531",
+    "Field Value Description": "Security"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w532",
+    "Field Value Description": "Sales Clerk/Counterman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w533",
+    "Field Value Description": "Sales"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w534",
+    "Field Value Description": "Researcher"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w535",
+    "Field Value Description": "Reporter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w536",
+    "Field Value Description": "Receptionist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w537",
+    "Field Value Description": "Real Estate/Realtor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w538",
+    "Field Value Description": "Quality Control"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w539",
+    "Field Value Description": "Purchasing"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w540",
+    "Field Value Description": "Publishing"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w541",
+    "Field Value Description": "Public Relations"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w542",
+    "Field Value Description": "Photography"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w543",
+    "Field Value Description": "Personnel/Recruiter/Interviewer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w544",
+    "Field Value Description": "Musician/Music/Dance"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w545",
+    "Field Value Description": "Model"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w546",
+    "Field Value Description": "Merchandiser"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w547",
+    "Field Value Description": "Marketing"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w548",
+    "Field Value Description": "Jeweler"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w549",
+    "Field Value Description": "Interior Designer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w550",
+    "Field Value Description": "Insurance/Underwriter"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w551",
+    "Field Value Description": "Insurance/Agent"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w552",
+    "Field Value Description": "Hostess/Host/Usher"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w553",
+    "Field Value Description": "Graphic Designer/Commercial Artist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w554",
+    "Field Value Description": "Florist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w555",
+    "Field Value Description": "Flight Attendant/Steward"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w556",
+    "Field Value Description": "Finance"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w557",
+    "Field Value Description": "Expeditor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w558",
+    "Field Value Description": "Estimator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w559",
+    "Field Value Description": "Draftsman"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w560",
+    "Field Value Description": "Dispatcher"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w561",
+    "Field Value Description": "Detective/Investigator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w562",
+    "Field Value Description": "Designer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w563",
+    "Field Value Description": "Customer Service/Representative"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w564",
+    "Field Value Description": "Coordinator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w565",
+    "Field Value Description": "Consultant/Advisor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w566",
+    "Field Value Description": "Conservation/Environment"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w567",
+    "Field Value Description": "Communications"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w568",
+    "Field Value Description": "Collector"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w569",
+    "Field Value Description": "Clerk/File"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w570",
+    "Field Value Description": "Clerk"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w571",
+    "Field Value Description": "Claims Examiner/Rep/Adjudicator"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w572",
+    "Field Value Description": "Checker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w573",
+    "Field Value Description": "Caterer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w574",
+    "Field Value Description": "Cashier"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w575",
+    "Field Value Description": "Buyer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w576",
+    "Field Value Description": "Broker/Stock/Trader"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w577",
+    "Field Value Description": "Broker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w578",
+    "Field Value Description": "Bookkeeper"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w579",
+    "Field Value Description": "Banker/Loan Processor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w580",
+    "Field Value Description": "Banker/Loan Office"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w581",
+    "Field Value Description": "Banker"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w582",
+    "Field Value Description": "Auditor"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w583",
+    "Field Value Description": "Auctioneer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w584",
+    "Field Value Description": "Artist"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w585",
+    "Field Value Description": "Appraiser"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w586",
+    "Field Value Description": "Analyst"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w587",
+    "Field Value Description": "Aide/Assistant/Technical"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w588",
+    "Field Value Description": "Aide/Assistant/Staff"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w589",
+    "Field Value Description": "Aide/Assistant/School"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w590",
+    "Field Value Description": "Aide/Assistant/Office"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w591",
+    "Field Value Description": "Aide/Assistant/Executive"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w592",
+    "Field Value Description": "Aide/Assistant"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w593",
+    "Field Value Description": "Agent"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w594",
+    "Field Value Description": "Advertising"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w595",
+    "Field Value Description": "Administration/Management"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w596",
+    "Field Value Description": "Adjuster"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w597",
+    "Field Value Description": "Actor/Entertainer/Announcer"
+  },
+  {
+    "Field Name": "occupation",
+    "Field Value": "w598",
+    "Field Value Description": "Accounting/Biller/Billing clerk"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "a",
+    "Field Value Description": "American Independent"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "c",
+    "Field Value Description": "Constitutional"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "d",
+    "Field Value Description": "Democrat"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "e",
+    "Field Value Description": "Reform"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "g",
+    "Field Value Description": "Green"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "i",
+    "Field Value Description": "Independent"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "l",
+    "Field Value Description": "Liberal"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "n",
+    "Field Value Description": "The Alliance Party"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "o",
+    "Field Value Description": "Other"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "p",
+    "Field Value Description": "Peace and Freedom"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "r",
+    "Field Value Description": "Republican"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "s",
+    "Field Value Description": "Socialist"
+  },
+  {
+    "Field Name": "party_affiliation",
+    "Field Value": "u",
+    "Field Value Description": "Undeclared"
+  }
+]

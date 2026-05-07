@@ -1,0 +1,7 @@
+node_modules/
+supporting_docs/
+dist/
+.env
+database.sqlite
+*.log
+.DS_Store

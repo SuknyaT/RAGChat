@@ -1,0 +1,1887 @@
+[
+  {
+    "Field Description": "Gender",
+    "Field Name": "gender",
+    "Field Type": "ALPHA",
+    "Attributes": 2,
+    "Field Values": "f,m"
+  },
+  {
+    "Field Description": "Age",
+    "Field Name": "age",
+    "Field Type": "INT",
+    "Field Values": "#",
+    "Field Range Min": 18,
+    "Field Range Max": 95
+  },
+  {
+    "Field Description": "Language",
+    "Field Name": "language",
+    "Field Type": "ALPHA_NUM",
+    "Attributes": 78,
+    "Field Values": "a1,a2,a3,a4,a5,a6,a7,b1,b2,b3,b4,b5,c1,c3,d1,d2,d3,e1,e2,f1,f2,f3,g1,g2,g3,g4,h2,h3,h4,i1,i2,i3,j1,k1,k2,k3,k4,l1,l2,l3,m1,m2,m3,m4,m5,n1,n2,o1,p1,p2,p3,r1,r2,s1,s2,s3,s4,s5,s6,s7,s8,s9,sa,sb,t1,t2,t3,t4,t5,t6,t7,t8,u1,u2,ux,v1,x1,z1"
+  },
+  {
+    "Field Description": "Religion",
+    "Field Name": "religion",
+    "Field Type": "ALPHA",
+    "Attributes": 13,
+    "Field Values": "b,c,g,h,i,j,k,l,m,o,p,s,x"
+  },
+  {
+    "Field Description": "Ethnic Group",
+    "Field Name": "ethnic_group",
+    "Field Type": "ALPHA",
+    "Attributes": 14,
+    "Field Values": "a,c,e,f,i,j,m,n,o,p,s,t,w,y"
+  },
+  {
+    "Field Description": "Ethnic Language",
+    "Field Name": "ethnic_language",
+    "Field Type": "ALPHA",
+    "Attributes": 4,
+    "Field Values": "a,b,c,d"
+  },
+  {
+    "Field Description": "Ethnic Hspanic Country",
+    "Field Name": "ethnic_hispanic_country",
+    "Field Type": "ALPHA",
+    "Attributes": 21,
+    "Field Values": "ha,hb,hc,hd,he,hg,hh,hj,hk,hl,hm,hn,hp,hq,hr,hs,hu,hv,hx,hy,hz"
+  },
+  {
+    "Field Description": "Ethnic Origin",
+    "Field Name": "ethnic_origin",
+    "Field Type": "ALPHA_NUM",
+    "Attributes": 159,
+    "Field Values": "0,c1,c2,c3,c4,c5,c6,c7,d0,d1,d3,d4,d5,d6,d7,d8,d9,de,df,dg,dh,dj,dk,dl,dm,dn,dq,dr,ds,ks,m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,ma,mb,mc,md,me,mf,mg,mh,mj,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,n1,n2,n3,n4,n5,n6,n7,n8,r1,r2,r3,r5,r6,r7,r8,r9,ra,rb,rc,rd,re,rf,rg,rh,rj,rk,rm,rp,rq,t1,t2,t3,t4,t5,t6,t7,t8,t9,tf,th,tj,u0,u1,u2,u3,u4,u5,u6,u7,u8,u9,ua,ub,uc,ud,ue,uf,ug,uh,ui,uj,uk,ul,um,un,up,uq,ur,ut,uv,uw,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9,wa,wb,wc,we,wf,wg,wh,wj,wk,wl,wm,wp,xx"
+  },
+  {
+    "Field Description": "Education",
+    "Field Name": "education",
+    "Field Type": "ALPHA",
+    "Attributes": 4,
+    "Field Values": "a,b,c,d"
+  },
+  {
+    "Field Description": "Single Parent",
+    "Field Name": "single_parent",
+    "Field Type": "BOOL",
+    "Attributes": 2,
+    "Field Values": "FALSE,TRUE"
+  },
+  {
+    "Field Description": "Maritial Status",
+    "Field Name": "marital_status",
+    "Field Type": "ALPHA",
+    "Attributes": 4,
+    "Field Values": "a,b,m,s"
+  },
+  {
+    "Field Description": "Household Generations",
+    "Field Name": "hh_generations",
+    "Field Type": "INT",
+    "Attributes": 3,
+    "Field Values": "1,2,3"
+  },
+  {
+    "Field Description": "Household with Kids",
+    "Field Name": "hh_with_kids",
+    "Field Type": "BOOL",
+    "Attributes": 2,
+    "Field Values": "FALSE,TRUE"
+  },
+  {
+    "Field Description": "Household with Young Adults",
+    "Field Name": "hh_with_young_adults",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Senior Adults",
+    "Field Name": "hh_with_senior_adults",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Veteran",
+    "Field Name": "hh_with_veteran",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Adult 18-24 Years old",
+    "Field Name": "hh_adults_male_18_24",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Adult 25-34 Years old",
+    "Field Name": "hh_adults_male_25_34",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Adult 35-44 Years old",
+    "Field Name": "hh_adults_male_35_44",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Adult 45-54 Years old",
+    "Field Name": "hh_adults_male_45_54",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Adult 55-64 Years old",
+    "Field Name": "hh_adults_male_55_64",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Adult 65-74 Years old",
+    "Field Name": "hh_adults_male_65_74",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Adult 75+ Years old",
+    "Field Name": "hh_adults_male_75_plus",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Adult 8-24 Years old",
+    "Field Name": "hh_adults_female_18_24",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Adult 25-34 Years old",
+    "Field Name": "hh_adults_female_25_34",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Adult 35-44 Years old",
+    "Field Name": "hh_adults_female_35_44",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Adult 45-54 Years old",
+    "Field Name": "hh_adults_female_45_54",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Adult 55-64 Years old",
+    "Field Name": "hh_adults_female_55_64",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Adult 65-74 Years old",
+    "Field Name": "hh_adults_female_65_74",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Adult 75+ Years old",
+    "Field Name": "hh_adults_female_75_plus",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Adult with Undpecified Gender 18-24 Years old",
+    "Field Name": "hh_adults_unknown_18_24",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Adult with Undpecified Gender 25-34 Years old",
+    "Field Name": "hh_adults_unknown_25_34",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Adult with Undpecified Gender 35-44 Years old",
+    "Field Name": "hh_adults_unknown_35_44",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Adult with Undpecified Gender 45-54 Years old",
+    "Field Name": "hh_adults_unknown_45_54",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Adult with Undpecified Gender 55-64 Years old",
+    "Field Name": "hh_adults_unknown_55_64",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Adult with Undpecified Gender 65-74 Years old",
+    "Field Name": "hh_adults_unknown_65_74",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Adult with Undpecified Gender 75+ Years old",
+    "Field Name": "hh_adults_unknown_75_plus",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Kid 0-2 Years old",
+    "Field Name": "hh_kids_male_0_2",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Kid 3-5 Years old",
+    "Field Name": "hh_kids_male_3_5",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Kid 6-10Years old",
+    "Field Name": "hh_kids_male_6_10",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Kid 11-15 Years old",
+    "Field Name": "hh_kids_male_11_15",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Male Kid 16-17 Years old",
+    "Field Name": "hh_kids_male_16_17",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Kid 0-2 Years old",
+    "Field Name": "hh_kids_female_0_2",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Kid 3-5 Years old",
+    "Field Name": "hh_kids_female_3_5",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Kid 6-10 Years old",
+    "Field Name": "hh_kids_female_6_10",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Kid 11-15 Years old",
+    "Field Name": "hh_kids_female_11_15",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Female Kid 16-17 Years old",
+    "Field Name": "hh_kids_female_16_17",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Kid with Undpecified Gender 0-2 Years old",
+    "Field Name": "hh_kids_unknown_0_2",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Kid with Undpecified Gender 3-5 Years old",
+    "Field Name": "hh_kids_unknown_3_5",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Kid with Undpecified Gender 6-10 Years old",
+    "Field Name": "hh_kids_unknown_6_10",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Kid with Undpecified Gender 11-15 Years old",
+    "Field Name": "hh_kids_unknown_11_15",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Household with Kid with Undpecified Gender 16-17 Years old",
+    "Field Name": "hh_kids_unknown_16_17",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Number of Adults in Household",
+    "Field Name": "hh_num_adults",
+    "Field Type": "INT",
+    "Attributes": 15,
+    "Field Values": "#",
+    "Field Range Min": 1,
+    "Field Range Max": 15
+  },
+  {
+    "Field Description": "Number of Kids in Household",
+    "Field Name": "hh_num_kids",
+    "Field Type": "INT",
+    "Attributes": 11,
+    "Field Values": "#",
+    "Field Range Min": 0,
+    "Field Range Max": 10
+  },
+  {
+    "Field Description": "Home Ownership",
+    "Field Name": "home_ownership",
+    "Field Type": "ALPHA",
+    "Attributes": 2,
+    "Field Values": "h,r"
+  },
+  {
+    "Field Description": "Length of Residence",
+    "Field Name": "length_of_residence",
+    "Field Type": "INT",
+    "Attributes": 16,
+    "Field Values": "#",
+    "Field Range Min": 0,
+    "Field Range Max": 15
+  },
+  {
+    "Field Description": "Dwelling Type",
+    "Field Name": "dwelling_type",
+    "Field Type": "ALPHA",
+    "Attributes": 10,
+    "Field Values": "a,b,c,m,n,p,s,t,w,x"
+  },
+  {
+    "Field Description": "Property A/C Type",
+    "Field Name": "property_ac_type",
+    "Field Type": "ALPHA",
+    "Attributes": 12,
+    "Field Values": "a,b,c,d,e,f,g,h,i,j,k,l"
+  },
+  {
+    "Field Description": "Property Fuel Type",
+    "Field Name": "property_fuel_type",
+    "Field Type": "ALPHA",
+    "Attributes": 4,
+    "Field Values": "e,g,o,p"
+  },
+  {
+    "Field Description": "Property Water Type",
+    "Field Name": "property_water_type",
+    "Field Type": "INT",
+    "Attributes": 4,
+    "Field Values": "1,2,3,4"
+  },
+  {
+    "Field Description": "Property Sewer Type",
+    "Field Name": "property_sewer_type",
+    "Field Type": "INT",
+    "Attributes": 4,
+    "Field Values": "1,2,3,4"
+  },
+  {
+    "Field Description": "Property Has Pool",
+    "Field Name": "property_has_pool",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Property Built Year",
+    "Field Name": "property_built_year",
+    "Field Type": "INT",
+    "Field Values": "#",
+    "Field Range Min": 1700,
+    "Field Range Max": 2025
+  },
+  {
+    "Field Description": "Consumer with Credit Card",
+    "Field Name": "credit_card_user",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Premium Credit Card",
+    "Field Name": "credit_card_premium",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with New Credit Card",
+    "Field Name": "credit_card_new_issue",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Amex Premium Credit Card",
+    "Field Name": "credit_card_amex_premium",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Amex Regular Credit Card",
+    "Field Name": "credit_card_amex_regular",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Discover Premium Credit Card",
+    "Field Name": "credit_card_discover_premium",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Discover Regular Credit Card",
+    "Field Name": "credit_card_discover_regular",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Mastercard Premium Credit Card",
+    "Field Name": "credit_card_mastercard_premium",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Mastercard Regular Credit Card",
+    "Field Name": "credit_card_mastercard_regular",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Visa Premium Credit Card",
+    "Field Name": "credit_card_visa_premium",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Visa Regular Credit Card",
+    "Field Name": "credit_card_visa_regular",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Gas Premium Credit Card",
+    "Field Name": "credit_card_gas_premium",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Gas Regular Credit Card",
+    "Field Name": "credit_card_gas_regular",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer with Travel Credit Card",
+    "Field Name": "credit_card_travel",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Lines of Credit",
+    "Field Name": "credit_lines",
+    "Field Type": "INT",
+    "Attributes": 9,
+    "Field Values": "#",
+    "Field Range Min": 1,
+    "Field Range Max": 9
+  },
+  {
+    "Field Description": "Credit Rating",
+    "Field Name": "credit_rating",
+    "Field Type": "ALPHA",
+    "Attributes": 8,
+    "Field Values": "a,b,c,d,e,f,g,h"
+  },
+  {
+    "Field Description": "Loan to Value Ratio",
+    "Field Name": "loan_to_value",
+    "Field Type": "INT",
+    "Field Values": "#",
+    "Field Range Min": 1,
+    "Field Range Max": 999
+  },
+  {
+    "Field Description": "Household Income Tier",
+    "Field Name": "hh_income_group",
+    "Field Type": "ALPHA",
+    "Attributes": 19,
+    "Field Values": "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s"
+  },
+  {
+    "Field Description": "Net Worth Tier",
+    "Field Name": "net_worth_group",
+    "Field Type": "ALPHA",
+    "Attributes": 9,
+    "Field Values": "a,b,c,d,e,f,g,h,i"
+  },
+  {
+    "Field Description": "Property Value",
+    "Field Name": "home_value",
+    "Field Type": "INT",
+    "Field Values": "#"
+  },
+  {
+    "Field Description": "Active Investor",
+    "Field Name": "invest_active",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Stocks Investor",
+    "Field Name": "invest_stocks",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Real Estate Investor",
+    "Field Name": "invest_real_estate",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Foreign Investor",
+    "Field Name": "invest_foreign",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Personal Investor",
+    "Field Name": "invest_personal",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Money Seeker Investor",
+    "Field Name": "invest_money_seeker",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Financial News Investor",
+    "Field Name": "invest_financial_news",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Property Investor",
+    "Field Name": "investment_property_owned",
+    "Field Type": "INT",
+    "Field Values": "#"
+  },
+  {
+    "Field Description": "Donor",
+    "Field Name": "donor",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Arts Charities",
+    "Field Name": "donor_arts",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Animal Charities",
+    "Field Name": "donor_animal",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Environmental Charities",
+    "Field Name": "donor_environment",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Kids Charities",
+    "Field Name": "donor_kids",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Health Charities",
+    "Field Name": "donor_health",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Community Causes",
+    "Field Name": "donor_community",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to International Aid Charities",
+    "Field Name": "donor_international_aid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Religious Charities",
+    "Field Name": "donor_religious",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Veterans Charities",
+    "Field Name": "donor_veteran",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Politics",
+    "Field Name": "donor_political",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Conservative Politics",
+    "Field Name": "donor_political_conservative",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Liberal Politics",
+    "Field Name": "donor_political_liberal",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates via Mail Order",
+    "Field Name": "donor_mail_order",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who is Interested in Donating",
+    "Field Name": "donor_support",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Who Donates to Charities",
+    "Field Name": "donor_charitable",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Works From a Home Office",
+    "Field Name": "occupation_type_home_office",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual Works in the Soho (Small Office/Home Office) Industry",
+    "Field Name": "occupation_type_soho",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual is a Working Woman",
+    "Field Name": "occupation_type_woman",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual is an African American Professional",
+    "Field Name": "occupation_type_african_americans",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual is a Business Owner",
+    "Field Name": "occupation_business_owner",
+    "Field Type": "ALPHA_NUM",
+    "Attributes": 10,
+    "Field Values": "1,2,3,4,5,6,7,8,9,a"
+  },
+  {
+    "Field Description": "The individual's Occupation",
+    "Field Name": "occupation",
+    "Field Type": "ALPHA_NUM",
+    "Attributes": 293,
+    "Field Values": "a194,a197,a198,a199,c120,c121,c122,c123,c124,c125,c126,c127,c128,e793,e794,e795,e796,e797,e798,e799,h326,h327,h328,h329,h330,h331,h332,h333,h334,h335,h336,h337,h338,h339,h340,h341,h342,h343,h344,h345,h346,h347,h348,i143,i144,i145,i146,i147,i148,i149,l394,l395,l396,l397,l398,l399,l400,l401,l402,l403,l404,l405,l406,l407,l408,l409,l410,l411,l412,l413,l414,l415,l416,l417,l418,l419,l420,l421,l422,l423,l424,l425,l426,l427,l428,l429,l430,l431,l432,l433,l434,l435,l436,l437,l438,l439,l440,l441,l442,l443,l444,l445,l446,l447,l448,l449,l450,l451,l452,l453,l454,l455,l456,l457,l458,l459,l460,l461,l462,l463,l464,l465,l466,l467,l468,l469,l470,l471,l472,l473,l474,l475,l476,l477,l478,l479,l480,l481,l482,l483,l484,l485,l486,l487,l488,l489,l490,l491,l492,l493,l494,l495,l496,l497,l498,m673,m674,m675,m676,m677,m678,m679,m680,m681,m682,m683,m684,m685,m686,m687,m688,m689,m690,m691,m692,m693,m694,m695,m696,m697,m698,p244,p245,p246,p247,p249,s295,s296,s297,s298,s299,t896,t897,t898,t978,t979,t980,t981,t982,t983,t984,t985,t987,t988,t989,t990,t991,t992,t993,t994,t995,t996,t997,t998,w520,w521,w522,w523,w524,w525,w526,w527,w528,w529,w530,w531,w532,w533,w534,w535,w536,w537,w538,w539,w540,w541,w542,w543,w544,w545,w546,w547,w548,w549,w550,w551,w552,w553,w554,w555,w556,w557,w558,w559,w560,w561,w562,w563,w564,w565,w566,w567,w568,w569,w570,w571,w572,w573,w574,w575,w576,w577,w578,w579,w580,w581,w582,w583,w584,w585,w586,w587,w588,w589,w590,w591,w592,w593,w594,w595,w596,w597,w598"
+  },
+  {
+    "Field Description": "Political Party Affiliation of Individual",
+    "Field Name": "party_affiliation",
+    "Field Type": "ALPHA",
+    "Attributes": 13,
+    "Field Values": "a,c,d,e,g,i,l,n,o,p,r,s,u"
+  },
+  {
+    "Field Description": "Consumer Who Buys Audio Books",
+    "Field Name": "buy_audio_books",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Audio Magazines",
+    "Field Name": "buy_magazines",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Audio Books",
+    "Field Name": "buy_books",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Religious Products",
+    "Field Name": "buy_religious",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Art",
+    "Field Name": "buy_art",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Antiques",
+    "Field Name": "buy_antiques",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Crafts",
+    "Field Name": "buy_crafts",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Collectibles",
+    "Field Name": "buy_collectibles",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Photo and Video",
+    "Field Name": "buy_photo_video",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Jewelry",
+    "Field Name": "buy_jewelry",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Cosmetics",
+    "Field Name": "buy_cosmetics",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Health Beauty Products",
+    "Field Name": "buy_health_beauty",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Gardening",
+    "Field Name": "buy_gardening",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Home Gardening",
+    "Field Name": "buy_home_garden",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Auto Pats",
+    "Field Name": "buy_auto_parts",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Hunting Products",
+    "Field Name": "buy_hunting",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Sport Leisure",
+    "Field Name": "buy_sports",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Luggage",
+    "Field Name": "buy_luggage",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Pets Supplies",
+    "Field Name": "buy_pets",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Kids Product",
+    "Field Name": "buy_kids",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Kids General Products",
+    "Field Name": "buy_kids_general",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Baby Care",
+    "Field Name": "buy_kids_baby_care",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Kids Learning Toys",
+    "Field Name": "buy_kids_learn_toys",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Kids School Supplies",
+    "Field Name": "buy_kids_school",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Kids Apparel",
+    "Field Name": "buy_kids_apparel",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Infant Product",
+    "Field Name": "buy_kids_infant",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Apparel",
+    "Field Name": "buy_apparel",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Sports Apparel",
+    "Field Name": "buy_apparel_sports",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Kids Apparel",
+    "Field Name": "buy_apparel_kids",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Infant Apparel",
+    "Field Name": "buy_apparel_infant",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Mens Apparel",
+    "Field Name": "buy_apparel_mens",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Oversized Men's Apparel",
+    "Field Name": "buy_apparel_mens_big",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Young Mens Apparel",
+    "Field Name": "buy_apparel_mens_young",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Women Apparel",
+    "Field Name": "buy_apparel_women",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Oversized Wome Apparel",
+    "Field Name": "buy_apparel_women_plus",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Petite Women Apparel",
+    "Field Name": "buy_apparel_women_petite",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Young Women Apparel",
+    "Field Name": "buy_apparel_women_young",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Products Online",
+    "Field Name": "buy_behavior_online_buyer",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Products via Mail",
+    "Field Name": "buy_behavior_mail_order_buyer",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Respond to a Piece of Collateral via Mail",
+    "Field Name": "buy_behavior_mail_order_responder",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who Buys Members Clubs",
+    "Field Name": "buy_behavior_membership_clubs",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Interested in Collecting Items",
+    "Field Name": "interest_collector",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avid Collector",
+    "Field Name": "interest_collector_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is interested in Antiques",
+    "Field Name": "interest_collector_antiques",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Collecting Arts",
+    "Field Name": "interest_collector_arts",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Collecting Coins",
+    "Field Name": "interest_collector_coins",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Sports",
+    "Field Name": "interest_collector_sports",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Collecting Stamps",
+    "Field Name": "interest_collector_stamps",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Music Collectors",
+    "Field Name": "interest_collector_music",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Movie Collections",
+    "Field Name": "interest_collector_movies",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Technology",
+    "Field Name": "interest_tech",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avidly Interested in Technology",
+    "Field Name": "interest_tech_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Consumer Electronics",
+    "Field Name": "interest_tech_consumer_electronics",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Telecommunication",
+    "Field Name": "interest_tech_telecom",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Appliances",
+    "Field Name": "interest_tech_appliances",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Cable TV",
+    "Field Name": "interest_tech_cable_tv",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Satellite Dish",
+    "Field Name": "interest_tech_dish",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Stereo",
+    "Field Name": "interest_tech_stereo",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Music Player",
+    "Field Name": "interest_tech_music_player",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Reading",
+    "Field Name": "interest_reading",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avidly Interested in Reading",
+    "Field Name": "interest_reading_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Reading Magazines",
+    "Field Name": "interest_reading_magazines",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Reading Current Affairs",
+    "Field Name": "interest_reading_current_affairs",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Reading Military History",
+    "Field Name": "interest_reading_history_military",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Reading Science Space",
+    "Field Name": "interest_reading_science_space",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Reading Scifi",
+    "Field Name": "interest_reading_scifi",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Reading Audio Books",
+    "Field Name": "interest_reading_audio_books",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Reading Financial News",
+    "Field Name": "interest_reading_financial_news",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching General",
+    "Field Name": "interest_watching",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avidly Interested in Watching",
+    "Field Name": "interest_watching_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching TV and Movie",
+    "Field Name": "interest_watching_tv_movie",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching Online Education",
+    "Field Name": "interest_watching_online_education",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching DVD and Videos",
+    "Field Name": "interest_watching_dvd_videos",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Music",
+    "Field Name": "interest_music",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avidly Interested in Music",
+    "Field Name": "interest_music_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Music Instrument",
+    "Field Name": "interest_music_instrument",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Gaming",
+    "Field Name": "interest_gaming",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avidly Interested in Gaming",
+    "Field Name": "interest_gaming_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in PC Gaming",
+    "Field Name": "interest_gaming_pc",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in VideoGaming",
+    "Field Name": "interest_gaming_video",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Cooking",
+    "Field Name": "interest_cooking",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avidly Interested in Cooking",
+    "Field Name": "interest_cooking_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Cooking Natural Food",
+    "Field Name": "interest_cooking_natural",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Cooking and Wine",
+    "Field Name": "interest_cooking_wine",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Fitness",
+    "Field Name": "interest_fitness",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avidly Interested in Fitness",
+    "Field Name": "interest_fitness_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Fitness Self Improvement",
+    "Field Name": "interest_fitness_self_improvement",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Fitness Health Medicine",
+    "Field Name": "interest_fitness_health_medicine",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Fitness Jogging",
+    "Field Name": "interest_fitness_jogging",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Fitness Walking",
+    "Field Name": "interest_fitness_walking",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Fitness Aerobics",
+    "Field Name": "interest_fitness_aerobics",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Fitness Diet",
+    "Field Name": "interest_fitness_diet",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Sports",
+    "Field Name": "interest_sports",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avidly Interested in Sports",
+    "Field Name": "interest_sports_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Camping",
+    "Field Name": "interest_sports_camping",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Boating",
+    "Field Name": "interest_sports_boating",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Fishing",
+    "Field Name": "interest_sports_fishing",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Scuba",
+    "Field Name": "interest_sports_scuba",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Tennis",
+    "Field Name": "interest_sports_tennis",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Snowboarding and Skiing",
+    "Field Name": "interest_sports_snow_ski",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Golf",
+    "Field Name": "interest_sports_golf",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Motorcycle",
+    "Field Name": "interest_sports_motorcycle",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in NASCAR",
+    "Field Name": "interest_sports_nascar",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Shooting",
+    "Field Name": "interest_sports_shooting",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching",
+    "Field Name": "interest_sports_spectator",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avidly Interested in Watching",
+    "Field Name": "interest_sports_spectator_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching Auto Sports",
+    "Field Name": "interest_sports_spectator_auto",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching Baseball",
+    "Field Name": "interest_sports_spectator_baseball",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching Basketball",
+    "Field Name": "interest_sports_spectator_basketball",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching Football",
+    "Field Name": "interest_sports_spectator_football",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching Hockey",
+    "Field Name": "interest_sports_spectator_hockey",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching Soccer",
+    "Field Name": "interest_sports_spectator_soccer",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Watching Sports on TV",
+    "Field Name": "interest_sports_spectator_tv",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Travel",
+    "Field Name": "interest_travel",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avidly Interested in Travel",
+    "Field Name": "interest_travel_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in International Travel",
+    "Field Name": "interest_travel_international",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Domestic Travel",
+    "Field Name": "interest_travel_domestic",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Travel to casions",
+    "Field Name": "interest_travel_casino",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Cruise Travel",
+    "Field Name": "interest_travel_cruise",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Pet",
+    "Field Name": "interest_pets",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Avidly Interested in Pet",
+    "Field Name": "interest_pets_avid",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Cats",
+    "Field Name": "interest_pets_cats",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Dogs",
+    "Field Name": "interest_pets_dogs",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Parenting",
+    "Field Name": "interest_family_parenting",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Grandkids",
+    "Field Name": "interest_family_grandkids",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in kids",
+    "Field Name": "interest_family_kids",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Christian Family",
+    "Field Name": "interest_family_christian",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Career",
+    "Field Name": "interest_family_career",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Career Improvement",
+    "Field Name": "interest_family_career_improvement",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Home General",
+    "Field Name": "interest_home",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Home Improvement",
+    "Field Name": "interest_home_improvement",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Home Decorating",
+    "Field Name": "interest_home_decorating",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Plants",
+    "Field Name": "interest_home_plants",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in DIY (Do-It-Yourself)",
+    "Field Name": "interest_hobbies_diy",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Crafts",
+    "Field Name": "interest_hobbies_crafts",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Home Woodworking",
+    "Field Name": "interest_hobbies_woodworking",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Home Photography",
+    "Field Name": "interest_hobbies_photography",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Home Sweepstakes",
+    "Field Name": "interest_hobbies_sweepstakes",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Games",
+    "Field Name": "interest_hobbies_games",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Auto Work",
+    "Field Name": "interest_activity_auto_work",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Aviation",
+    "Field Name": "interest_activity_aviation",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Investing",
+    "Field Name": "interest_activity_investing",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Smoking",
+    "Field Name": "interest_activity_smoking",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Outdoor Activities",
+    "Field Name": "interest_activity_outdoor",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Consumer Who is Interested in Theater",
+    "Field Name": "interest_activity_theater",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual lives a common Lifestyle",
+    "Field Name": "lifestyle_common",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual lives a Upscale Lifestyle",
+    "Field Name": "lifestyle_upscale",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual lives a Highbrow Lifestyle",
+    "Field Name": "lifestyle_highbrow",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual lives a Broader Lifestyle",
+    "Field Name": "lifestyle_broader",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual lives a Professional Lifestyle",
+    "Field Name": "lifestyle_professional",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual lives a Cultural Lifestyle",
+    "Field Name": "lifestyle_culture",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual lives a Sporty Lifestyle",
+    "Field Name": "lifestyle_sporty",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual lives a Homebody Lifestyle",
+    "Field Name": "lifestyle_home",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  },
+  {
+    "Field Description": "Individual lives a Do It Yourself Lifestyle",
+    "Field Name": "lifestyle_diy",
+    "Field Type": "BOOL",
+    "Attributes": 1,
+    "Field Values": true
+  }
+]

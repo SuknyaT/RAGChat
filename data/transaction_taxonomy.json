@@ -1,0 +1,4523 @@
+[
+  {
+    "Level 1": "Arts & Entertainment"
+  },
+  {
+    "Level 1": "Arts & Entertainment",
+    "Level 2": "Books & Literature"
+  },
+  {
+    "Level 1": "Arts & Entertainment",
+    "Level 2": "Humor"
+  },
+  {
+    "Level 1": "Arts & Entertainment",
+    "Level 2": "Movies"
+  },
+  {
+    "Level 1": "Arts & Entertainment",
+    "Level 2": "Music"
+  },
+  {
+    "Level 1": "Arts & Entertainment",
+    "Level 2": "Television"
+  },
+  {
+    "Level 1": "Arts & Entertainment",
+    "Level 2": "Concerts"
+  },
+  {
+    "Level 1": "Arts & Entertainment",
+    "Level 2": "Photography"
+  },
+  {
+    "Level 1": "Automotive & Cars"
+  },
+  {
+    "Level 1": "Automotive & Cars",
+    "Level 2": "Auto Repair"
+  },
+  {
+    "Level 1": "Automotive & Cars",
+    "Level 2": "Buying & Selling",
+    "Level 3": "Cars"
+  },
+  {
+    "Level 1": "Automotive & Cars",
+    "Level 2": "Buying & Selling",
+    "Level 3": "Boats"
+  },
+  {
+    "Level 1": "Automotive & Cars",
+    "Level 2": "Car Culture"
+  },
+  {
+    "Level 1": "Automotive & Cars",
+    "Level 2": "Boating"
+  },
+  {
+    "Level 1": "Automotive & Cars",
+    "Level 2": "Current vehicle owners"
+  },
+  {
+    "Level 1": "Business"
+  },
+  {
+    "Level 1": "Business",
+    "Level 2": "Business Professionals"
+  },
+  {
+    "Level 1": "Business",
+    "Level 2": "Business Professionals",
+    "Level 3": "Small Business Owners"
+  },
+  {
+    "Level 1": "Careers & Jobs",
+    "Level 2": "Job Seekers"
+  },
+  {
+    "Level 1": "Education"
+  },
+  {
+    "Level 1": "Family & Parenting",
+    "Level 2": "Babies & Toddlers"
+  },
+  {
+    "Level 1": "Family & Parenting",
+    "Level 2": "Caretakers"
+  },
+  {
+    "Level 1": "Family & Parenting",
+    "Level 2": "Dads"
+  },
+  {
+    "Level 1": "Family & Parenting",
+    "Level 2": "Moms"
+  },
+  {
+    "Level 1": "Health & Fitness",
+    "Level 2": "Exercise"
+  },
+  {
+    "Level 1": "Health & Fitness",
+    "Level 2": "Exercise",
+    "Level 3": "Fitness Devices"
+  },
+  {
+    "Level 1": "Health & Fitness",
+    "Level 2": "Exercise",
+    "Level 3": "Hiking"
+  },
+  {
+    "Level 1": "Health & Fitness",
+    "Level 2": "Exercise",
+    "Level 3": "Running"
+  },
+  {
+    "Level 1": "Health & Fitness",
+    "Level 2": "Weight Loss"
+  },
+  {
+    "Level 1": "Health & Fitness",
+    "Level 2": "Pharmacy Patrons"
+  },
+  {
+    "Level 1": "Food & Drink",
+    "Level 2": "Dining Out"
+  },
+  {
+    "Level 1": "Food & Drink",
+    "Level 2": "Dining Out",
+    "Level 3": "Frequent Restaurant Goers"
+  },
+  {
+    "Level 1": "Food & Drink",
+    "Level 2": "Home Chefs"
+  },
+  {
+    "Level 1": "Food & Drink",
+    "Level 2": "Fast Food"
+  },
+  {
+    "Level 1": "Food & Drink",
+    "Level 2": "Foodies"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Arts & Crafts"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Arts & Crafts",
+    "Level 3": "Live Events",
+    "Level 4": "Theater"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Arts & Crafts",
+    "Level 3": "Live Events",
+    "Level 4": "Ticket Purchasing"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Board Games & Puzzles"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Card Games"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Casino Visitors"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Photography"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Video & Computer Games"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Action"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Adventure"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Arcade"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Educational"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Music"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Racing"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Role Playing Games"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Sports"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Social & Casual gaming"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Social & Casual gaming",
+    "Level 4": "Fantasy Sports"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Trivia"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Mobile Gaming Apps",
+    "Level 3": "Word Games"
+  },
+  {
+    "Level 1": "Hobbies & Interests",
+    "Level 2": "Photo & Video Apps"
+  },
+  {
+    "Level 1": "Home & Garden",
+    "Level 2": "Gardening"
+  },
+  {
+    "Level 1": "Home & Garden",
+    "Level 2": "Home Repair"
+  },
+  {
+    "Level 1": "News",
+    "Level 2": "E-news readers"
+  },
+  {
+    "Level 1": "Personal Finance"
+  },
+  {
+    "Level 1": "Personal Finance",
+    "Level 2": "Financial Planning"
+  },
+  {
+    "Level 1": "Personal Finance",
+    "Level 2": "Insurance"
+  },
+  {
+    "Level 1": "Personal Finance",
+    "Level 2": "Insurance",
+    "Level 3": "Home Insurance"
+  },
+  {
+    "Level 1": "Personal Finance",
+    "Level 2": "Insurance",
+    "Level 3": "Automobile Insurance"
+  },
+  {
+    "Level 1": "Personal Finance",
+    "Level 2": "Investing"
+  },
+  {
+    "Level 1": "Personal Finance",
+    "Level 2": "Retirement Planning"
+  },
+  {
+    "Level 1": "Personal Finance",
+    "Level 2": "Active Trader"
+  },
+  {
+    "Level 1": "Personal Finance",
+    "Level 2": "Banking Services"
+  },
+  {
+    "Level 1": "Personal Finance",
+    "Level 2": "Mobile Payment Services"
+  },
+  {
+    "Level 1": "Society",
+    "Level 2": "Dating"
+  },
+  {
+    "Level 1": "Society",
+    "Level 2": "Marriage"
+  },
+  {
+    "Level 1": "Society",
+    "Level 2": "Engaged"
+  },
+  {
+    "Level 1": "Pets"
+  },
+  {
+    "Level 1": "Pets",
+    "Level 2": "Cats"
+  },
+  {
+    "Level 1": "Pets",
+    "Level 2": "Dogs"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Baseball"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Bicycling"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Football"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Game & Fish"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Golf"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Hunting & Shooting"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Pro Basketball"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Pro Ice Hockey"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Skiing"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Surfing"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Soccer"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "UFC"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Tennis"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "College Sports"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "College Sports",
+    "Level 3": "Basketball"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "College Sports",
+    "Level 3": "Football"
+  },
+  {
+    "Level 1": "Sports",
+    "Level 2": "Extreme Sports"
+  },
+  {
+    "Level 1": "Style & Fashion",
+    "Level 2": "Fashion"
+  },
+  {
+    "Level 1": "Style & Fashion",
+    "Level 2": "Fashion",
+    "Level 3": "Designer Goods"
+  },
+  {
+    "Level 1": "Style & Fashion",
+    "Level 2": "Fashion",
+    "Level 3": "Upscale"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Cell Phones"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Cell Phones",
+    "Level 3": "Mobile Apps"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Internet Technology",
+    "Level 3": "Communication"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Internet Technology",
+    "Level 3": "Communication",
+    "Level 4": "Blogging"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Internet Technology",
+    "Level 3": "Communication",
+    "Level 4": "Highly Influential"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Internet Technology",
+    "Level 3": "Communication",
+    "Level 4": "Social Influencers"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Internet Technology",
+    "Level 3": "Communication",
+    "Level 4": "Communication Writers"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Entertainment",
+    "Level 3": "Home Entertainment"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "GPS"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Home Automation"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Streaming"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Streaming",
+    "Level 3": "Cord Cutter"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Streaming",
+    "Level 3": "Cord Cutter",
+    "Level 4": "Free Content"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Streaming",
+    "Level 3": "Cord Cutter",
+    "Level 4": "On-demand movies"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Streaming",
+    "Level 3": "Cord Cutter",
+    "Level 4": "Over the top devices"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Streaming",
+    "Level 3": "Cord Cutter",
+    "Level 4": "Subscription Content Streamers"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Streaming",
+    "Level 3": "Cord Cutter",
+    "Level 4": "Smart TVs"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Streaming",
+    "Level 3": "Streaming TV Subscribers"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Streaming",
+    "Level 3": "Streaming TV Subscribers",
+    "Level 4": "Basic TV streamers"
+  },
+  {
+    "Level 1": "Technology & Computing",
+    "Level 2": "Streaming",
+    "Level 3": "Streaming TV Subscribers",
+    "Level 4": "Service Provider Streamers"
+  },
+  {
+    "Level 1": "Travel"
+  },
+  {
+    "Level 1": "Travel",
+    "Level 2": "Vacation Travel"
+  },
+  {
+    "Level 1": "Travel",
+    "Level 2": "Air Travel"
+  },
+  {
+    "Level 1": "Travel",
+    "Level 2": "Business Travel"
+  },
+  {
+    "Level 1": "Travel",
+    "Level 2": "Camping"
+  },
+  {
+    "Level 1": "Travel",
+    "Level 2": "Cruises"
+  },
+  {
+    "Level 1": "Travel",
+    "Level 2": "Hotels"
+  },
+  {
+    "Level 1": "Travel",
+    "Level 2": "Road Trip"
+  },
+  {
+    "Level 1": "Real Estate",
+    "Level 2": "Apartments"
+  },
+  {
+    "Level 1": "Real Estate",
+    "Level 2": "Apartments",
+    "Level 3": "Apartment Hunters"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Candy & Gum"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Candy & Gum",
+    "Level 4": "Non-Chocolate"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Candy & Gum",
+    "Level 4": "Chocolate"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Salty Snacks & Popcorn"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Cookies"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Crackers"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Dips & Spreads"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Hors D'oeurves"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Fruit Rolls/Bars/Snacks"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Dried Meat & Jerky"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Pudding & Gelatin"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Refrigerated Dough/Biscuit Dough"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Snack Bars"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Snack Nuts/Seeds/Corn Nuts"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Cookies, Chips & Snacks",
+    "Level 4": "Other Snacks"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Bread"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Bagels/Bialys"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Bakery Snacks"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Pies & Cakes"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Pastry/Doughnuts"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Refrigerated Pizza"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Al Cohens"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Alexia"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Alvarado Street Bakery"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Amorosos"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Anzio & Sons Bakery"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Bridgford"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Captain John Dersts"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Chabaso Bakery"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Colonial"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Costanzos"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Country Farms"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Country Kitchen"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Dimpflmeier"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Ener-G Foods"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Fantini"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Fiber One"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Food For Life"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Formulated P28"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Glutino"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Gold Medal Bakery"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Gonnella"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Goodbye Gluten"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Grainless Baker"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Grandma Sycamores"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Heiners"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Holsum"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Hungry Jack"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Immaculate Baking Co"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Kellogg's"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Koffee Kup"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Levys"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Liscios Bakery"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Manischewitz"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Mary Bs"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Mary Jane And Friends"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Merita"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Miltons"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Monks"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Morabito"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Mother's"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Pacific"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Rhodes"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Roman Meal"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Rubschlager"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Rudis Gluten Free Bakery"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Rudis Organic Bakery"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "S Rosens"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Schar"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Seattle International Baking Comp"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Sister Schuberts"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Todays Temptations"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Turano"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Vermont Bread Comp"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Weight Watchers"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Wheat Montana Farms & Bakery"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "When Pigs Fly"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Bakery & Bread",
+    "Level 4": "Wholesome Harvest"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Flours & Meals"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Frosting, Toppings & Decorations"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Chips/Baking Chocolate/Cocoa"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Mixes"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Oil & Shortening"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Dry/Refrigerated Yeast"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Sugar"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Baking Powder/Soda"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Pie/Pastry Filling"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Ready-To-Use Pie Crust"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Baking Nuts"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Baking Syrup/Molasses"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Edible Cake Decorations"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Breadcrumbs/Batters"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Marshmallows"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Argo"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Arrowhead Mills"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Ball"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Betty Crocker"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Bob's Red Mill"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Brill"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Carnation"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Certo"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Comstock"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Create A Treat"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Duncan Hines"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Eagle"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Enjoy Life"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Fleischmann's Yeast"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Ge-Packaged Desserts"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Ghirardelli"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Goya"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Hershey's"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "House-Autry"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Keebler"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "King Arthur"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Knox"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Kraft Minute"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Kretschmer"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Lets Do Organic"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Libbys"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Make N Mold"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Martha White"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Masa Brosa"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Mccormick"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Moss"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Nasoya"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Native Forest"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Oreo"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Pennant"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Pet"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Pillsbury"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Private Label"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Reese's"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Solo"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Sure Jell"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Swans"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Tenda Bake"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Thai Kitchen"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Torti Masa"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Wilderness"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baking & Cooking",
+    "Level 4": "Nestle"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Breakfast & Cereal"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Breakfast & Cereal",
+    "Level 4": "Hot Cereal and Oatmeal"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Breakfast & Cereal",
+    "Level 4": "Breakfast, Cereal & Energy Bars"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Breakfast & Cereal",
+    "Level 4": "Cereal"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Breakfast & Cereal",
+    "Level 4": "English Muffins"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Breakfast & Cereal",
+    "Level 4": "Shelf Stable Toaster Pastries/Tarts"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Breakfast & Cereal",
+    "Level 4": "Prepared Breakfast Foods"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Canned, Jarred & Packaged"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Canned, Jarred & Packaged",
+    "Level 4": "Vegetables"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Canned, Jarred & Packaged",
+    "Level 4": "Canned & Bottled Fruit"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Canned, Jarred & Packaged",
+    "Level 4": "Canned Beans"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Canned, Jarred & Packaged",
+    "Level 4": "Soups, Stocks & Broth"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Canned, Jarred & Packaged",
+    "Level 4": "Seafood"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Canned, Jarred & Packaged",
+    "Level 4": "Tomato Products"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Dairy & Eggs"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Dairy & Eggs",
+    "Level 4": "Cheese"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Dairy & Eggs",
+    "Level 4": "Cream & Creamers"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Dairy & Eggs",
+    "Level 4": "Eggs"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Dairy & Eggs",
+    "Level 4": "Milk"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Dairy & Eggs",
+    "Level 4": "Yogurt"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Dairy & Eggs",
+    "Level 4": "Butter, Blends & Spreads"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry",
+    "Level 4": "Bacon & Sausages"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry",
+    "Level 4": "Beef"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry",
+    "Level 4": "Hot Dogs & Frankfurters"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry",
+    "Level 4": "Lamb"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry",
+    "Level 4": "Meat Alternatives"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry",
+    "Level 4": "Pork"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry",
+    "Level 4": "Refrigerated and Frozen Poultry"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry",
+    "Level 4": "Refrigerated Seafood"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry",
+    "Level 4": "Refrigerated Meat"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry",
+    "Level 4": "Shelf Stable Lunch Meats"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Meat, Seafood & Poultry",
+    "Level 4": "Shelf Stable Meat/Meat Spreads"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Pasta & Rice"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Pasta & Rice",
+    "Level 4": "Pasta"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Pasta & Rice",
+    "Level 4": "Rice"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Relish"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Refrigerated Salad Dressings"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Jam, Jelly & Preserves"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Nut Spread & Butter"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Olives"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Pickles"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Shelf Stable Salad Dressings"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Salt & Salt Substitue"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Gravy and Sauces"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Spices & Seasoning"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Syrups & Sweeteners"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Vinegar"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Ketchup"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Mustard"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Mayonnaise & Sandwich Spread"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Marinated Vegetable/Fruit"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Condiments, Spices, Dressings, Sauces & Preserves",
+    "Level 4": "Peppers/Pimentos"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Deli"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Deli",
+    "Level 4": "Refrigerated Deli Meat"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Beverage"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Beverage",
+    "Level 4": "Coffee & Tea"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Beverage",
+    "Level 4": "Spirits"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Beverage",
+    "Level 4": "Wine"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Beverage",
+    "Level 4": "Beer, Ale & Cider"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Beverage",
+    "Level 4": "Juice & Juice Drinks"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Beverage",
+    "Level 4": "Carbonated Drinks"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Beverage",
+    "Level 4": "Sport & Energy Drinks"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Beverage",
+    "Level 4": "Water"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Beverage",
+    "Level 4": "Cocktail Mixes"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Beverage",
+    "Level 4": "Powdered Drinks & Mixes"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Frozen Breakfast Food"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Frozen Dinners & Meals"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Frozen Juice"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Frozen Novelties"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Frozen Pasta & Noodles"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Frozen Potatoes"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Frozen Rolls & Wraps"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Frozen Seafood"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Frozen Vegetables"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Meat"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Pizza"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Frozen Corn On The Cob"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Frozen Pies"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Frozen Foods",
+    "Level 4": "Ice Cream & Sherbet"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Fresh Produce"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Fresh Produce",
+    "Level 4": "Dried Beans & Vegetables"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Fresh Produce",
+    "Level 4": "Dried Fruit"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Fresh Produce",
+    "Level 4": "Fruits"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Fresh Produce",
+    "Level 4": "Salad Toppers"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Fresh Produce",
+    "Level 4": "Vegetables"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Packaged Meals & Sides"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Packaged Meals & Sides",
+    "Level 4": "Meal Kits"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Packaged Meals & Sides",
+    "Level 4": "Shelf Stable Instant Meals"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Packaged Meals & Sides",
+    "Level 4": "Instant Potatoes"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baby Foods"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Baby Foods",
+    "Level 4": "Meals & Snacks"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Ethnic Groceries"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Ethnic Groceries",
+    "Level 4": "Asian"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Groceries & Essentials",
+    "Level 3": "Ethnic Groceries",
+    "Level 4": "Mexican"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Baby & Toddler"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Baby & Toddler",
+    "Level 3": "Diapering & Care"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Baby & Toddler",
+    "Level 3": "Diapering & Care",
+    "Level 4": "Diapers"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Baby & Toddler",
+    "Level 3": "Diapering & Care",
+    "Level 4": "Baby & Kids Personal Care"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Baby & Toddler",
+    "Level 3": "Nursing & Feeding"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Baby & Toddler",
+    "Level 3": "Nursing & Feeding",
+    "Level 4": "Baby Formula"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Baby & Toddler",
+    "Level 3": "Nursing & Feeding",
+    "Level 4": "Baby Feeding Accessories"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Barleans"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Bausch & Lomb"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Body Fortress"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Boost"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Carnation"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Centrum"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Core Power"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Designer Whey"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Disney"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Eas"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Emergen-C"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Enfamil"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Ensure"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Glucerna"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Halls Defense"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Hydroxycut"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Kellogg's"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Kellogg's Special K"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Mason"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Muscle Milk"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Natrol"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Natural Factors"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Nature Made"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Natures Bounty"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Natures Way"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Nordic Naturals"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Northwest Natural Products"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Nutiva"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "One A Day"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Orgain"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Osteo-Bi-Flex"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Pediasure"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Plantfusion"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Premier Nutrition"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Six Star"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Slim-Fast"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Slim-Fast Optima"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Solgar"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Spectrum Essentials"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Private Label"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Sundown"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Sunflower"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Vitafusion"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Nutritional Supplements & Weight Control",
+    "Level 4": "Worldwide"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "First Aid"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "First Aid",
+    "Level 4": "First Aid Accessories"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Medicine & Pain Relief"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Medicine & Pain Relief",
+    "Level 4": "Cold/Allergy/Sinus Tablets"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Medicine & Pain Relief",
+    "Level 4": "Internal Analgesics"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Medicine & Pain Relief",
+    "Level 4": "External Analgesics"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Medicine & Pain Relief",
+    "Level 4": "Cough & Sore Throat Drops & Syrups"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Medicine & Pain Relief",
+    "Level 4": "Gastrointestinal Tablets"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Medicine & Pain Relief",
+    "Level 4": "Gastrointestinal Liquid"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Medicine & Pain Relief",
+    "Level 4": "Nasal Products"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Oral Care"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Oral Care",
+    "Level 4": "Toothpaste"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Oral Care",
+    "Level 4": "Toothbrushes & Dental Accessories"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Oral Care",
+    "Level 4": "Mouthwash/Dental Rinse"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Oral Care",
+    "Level 4": "Denture"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Oral Care",
+    "Level 4": "Breath Fresheners"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Personal Care"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Personal Care",
+    "Level 4": "Cotton Balls/Swabs"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Personal Care",
+    "Level 4": "Feminine Needs"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Personal Care",
+    "Level 4": "Moist Towelettes"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Sunscreen & Tanning"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Sunscreen & Tanning",
+    "Level 4": "Suntan Lotion & Oil"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Vision Care"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Vision Care",
+    "Level 4": "Eye/Contact Lens Care Product"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Vitamins & Oils"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Vitamins & Oils",
+    "Level 4": "1 & 2 Letter Vitamins"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Vitamins & Oils",
+    "Level 4": "Mineral Supplements"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Vitamins & Oils",
+    "Level 4": "Multi-Vitamins"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Health, Diet & Nutrition",
+    "Level 3": "Vitamins & Oils",
+    "Level 4": "Children's Vitamins"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Bath & Body",
+    "Level 4": "Hand & Body Lotions"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Bath & Body",
+    "Level 4": "Soap"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Bath & Body",
+    "Level 4": "Bath Accessories"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Bath & Body",
+    "Level 4": "Deodorants & Antiperspirants"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Facial Care"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Facial Care",
+    "Level 4": "Facial Cleaner"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Facial Care",
+    "Level 4": "Facial Moisturizer"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Facial Care",
+    "Level 4": "Facial Treatments"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Facial Care",
+    "Level 4": "Facial Cosmetics"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Facial Care",
+    "Level 4": "Facial Tissue"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Facial Care",
+    "Level 4": "Lip Treatment"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Facial Care",
+    "Level 4": "Depilatories"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Foot Care Products"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Foot Care Products",
+    "Level 4": "Athletes Foot Medication"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Foot Care Products",
+    "Level 4": "Foot Care Devices"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Fragrance"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Fragrance",
+    "Level 4": "Shaving Lotion/Mens Fragrance"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Fragrance",
+    "Level 4": "Women's Fragrances"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Hair Care"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Hair Care",
+    "Level 4": "Shampoo"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Hair Care",
+    "Level 4": "Conditioner & Creme Rinse"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Hair Care",
+    "Level 4": "Styling Products"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Hair Care",
+    "Level 4": "Hair Color"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Hair Care",
+    "Level 4": "Hair Accessories"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Hair Removal"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Hair Removal",
+    "Level 4": "Shaving Cream"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Hair Removal",
+    "Level 4": "Razors & Blades"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Cosmetics Accessories"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Almay"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Essie"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Kiss"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "L A Colors"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "L'Oreal"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Maybelline"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Neutrogena"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Opi"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Physicians Formula"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Pretty Nails"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Rimmel"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Sinful Colors"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Private Label"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Makeup & Cosmetics",
+    "Level 4": "Wet N Wild"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Nails"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Nails",
+    "Level 4": "Nail Polish"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Eye Cosmetics"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Eye Cosmetics",
+    "Level 4": "Eye Shadow"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Beauty & Care",
+    "Level 3": "Eye Cosmetics",
+    "Level 4": "Mascara"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Dogs"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Dogs",
+    "Level 4": "Dog Biscuits/Treats/Beverages"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Dogs",
+    "Level 4": "Dry Dog Food"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Dogs",
+    "Level 4": "Frozen/Refrigerated Dog Food"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Dogs",
+    "Level 4": "Wet Dog Food"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Dogs",
+    "Level 4": "Rawhide Dog Chews"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Cats"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Cats",
+    "Level 4": "Cat Litter"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Cats",
+    "Level 4": "Snacks/Beverages"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Cats",
+    "Level 4": "Dry Cat Food"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Cats",
+    "Level 4": "Wet Cat Food"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Pet Supplies"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Pet Supplies",
+    "Level 4": "Dog/Cat Needs"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Pets",
+    "Level 3": "Pet Supplies",
+    "Level 4": "Non Dog/Cat Pet Food"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner",
+    "Level 4": "All Purpose Cleaner/Disinfectant"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner",
+    "Level 4": "Oven/Appliance Cleaner/Degreaser"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner Cloths",
+    "Level 4": "Cloth Metal Cleaner"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner",
+    "Level 4": "Drain Cleaner"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner",
+    "Level 4": "Glass Cleaner/Ammonia"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner",
+    "Level 4": "Specialty Cleaner/Polish"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner",
+    "Level 4": "Cloth All Purpose Cleaner"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner",
+    "Level 4": "Lime/Rust Remover"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner",
+    "Level 4": "Abrasive Tub/Tile Cleaner"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner",
+    "Level 4": "Nonabrasive Tub/Tile Cleaner"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Household Cleaner",
+    "Level 4": "Toilet Bowl Cleaner/Deodorizer"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cleaning Tools"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cleaning Tools",
+    "Level 4": "Cleaning Tools/Mops/Brooms"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Dish Detergent & Soaps"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Dish Detergent & Soaps",
+    "Level 4": "Dishwasher Detergent/Additive"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Dish Detergent & Soaps",
+    "Level 4": "Manual Dish Detergent"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Arm & Hammer"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Bissell"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Febreze"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Carpet Fresh"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Clorox"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Love My Carpet"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Private Label"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Resolve"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Spot Shot"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Woolite"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Lysol"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Mr. Clean"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Murphy's Oil"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Orange Cleaning"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Pledge"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Rug Doctor"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Scotchgard"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Swiffer"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Carbona"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Formula 409"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Glade"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Carpet, Upholstery & Floor Cleaner",
+    "Level 4": "Renuzit"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Furniture & Wood Cleaner"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Furniture & Wood Cleaner",
+    "Level 4": "Bona"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Furniture & Wood Cleaner",
+    "Level 4": "Endust"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Furniture & Wood Cleaner",
+    "Level 4": "Holloway House"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Furniture & Wood Cleaner",
+    "Level 4": "Mop & Glo"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Furniture & Wood Cleaner",
+    "Level 4": "Murphy's Oil Soap"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Furniture & Wood Cleaner",
+    "Level 4": "Old English"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Furniture & Wood Cleaner",
+    "Level 4": "Orange Glo"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Furniture & Wood Cleaner",
+    "Level 4": "Pledge"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Furniture & Wood Cleaner",
+    "Level 4": "Scott's Liquid Gold"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Furniture & Wood Cleaner",
+    "Level 4": "Swiffer Dust & Shine"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Laundry"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Laundry",
+    "Level 4": "Fabric Softener"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Laundry",
+    "Level 4": "Laundry Prewash/Additive"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Laundry",
+    "Level 4": "Laundry Starch"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Laundry",
+    "Level 4": "Laundry Detergent"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Light Bulbs"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Light Bulbs",
+    "Level 4": "G.E."
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Light Bulbs",
+    "Level 4": "Private Label"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Light Bulbs",
+    "Level 4": "Sylvania"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Light Bulbs",
+    "Level 4": "Philips"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Light Bulbs",
+    "Level 4": "Westinghouse"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Paper Goods"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Paper Goods",
+    "Level 4": "Paper Napkins"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Paper Goods",
+    "Level 4": "Paper Towels"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Pest Control"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Pest Control",
+    "Level 4": "Indoor Insect/Rodent Control Chemicals"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Pest Control",
+    "Level 4": "Outdoor Insect/Rodent Control Chemicals"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Home Batteries"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Home Batteries",
+    "Level 4": "Alkaline Batteries"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Home Batteries",
+    "Level 4": "All Other Batteries"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Air Wick"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Citrus Magic"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Febreze Air Effects"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Glade"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Private Label"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Renuzit"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Potpourri"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Arm & Hammer"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Bissell"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Easy Off"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Lysol"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Lysol Neutra Air"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Neutra Air"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Air Fresheners",
+    "Level 4": "Refresh"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "Cake Mate"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "Glade"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "Air Wick"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "American Greetings"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "Betty Crocker"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "Bic"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "Decopac"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "Febreze"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "Simple Simon"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "TuscCandle"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "Village Candle"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "Wilton"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Candles",
+    "Level 4": "Yankee Candle"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Bleach"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Bleach",
+    "Level 4": "SCH Bleach"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Bleach",
+    "Level 4": "Color-Safe Bleach"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Disposable Cups"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Disposable Plates/Bowls"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "American Greetings"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Amscan"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Cake Mate"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Caspari"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Dart"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Deluxe"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Diamond"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "General Electric"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Glad"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Green Forest"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Guestware"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Handi Foil"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Hefty Ez Foil"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Party Creations"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Party Essentials"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Philips"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Reynolds"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Sabert"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Sensations"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Sylvania"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Cups & Plates",
+    "Level 4": "Wilton"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Sponges & Scouring Pads"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Sponges & Scouring Pads",
+    "Level 4": "Scouring Pad"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Sponges & Scouring Pads",
+    "Level 4": "Sponge/Scouring Sponge"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Foils & Wraps"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Foils & Wraps",
+    "Level 4": "Aluminum Foil"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Foils & Wraps",
+    "Level 4": "Plastic Wrap"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Foils & Wraps",
+    "Level 4": "Waxed Paper"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Food & Trash Bags"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Food & Trash Bags",
+    "Level 4": "Garbage/Trash/Lawn&Leaf Bags"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Food & Trash Bags",
+    "Level 4": "Sandwich/Freezer/Food Storage Bags"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue",
+    "Level 4": "Angel Soft"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue",
+    "Level 4": "Charmin Basic"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue",
+    "Level 4": "Kleenex Cottonelle Clean Care"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue",
+    "Level 4": "Marcal Small Steps"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue",
+    "Level 4": "Private Label"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue",
+    "Level 4": "Quilted Northern Ultra Plush"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue",
+    "Level 4": "Scott Naturals Tube Free"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue",
+    "Level 4": "Cottonelle"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue",
+    "Level 4": "Living Green"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue",
+    "Level 4": "Paseo"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Toilet Tissue",
+    "Level 4": "Soft'N Gentle"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Gift Wrapping"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Gift Wrapping",
+    "Level 4": "Ag/Gibson"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Gift Wrapping",
+    "Level 4": "American Greetings"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Gift Wrapping",
+    "Level 4": "Easter Unlimited Inc"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Gift Wrapping",
+    "Level 4": "Everstar"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home Essentials",
+    "Level 3": "Gift Wrapping",
+    "Level 4": "Private Label"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Cigarettes & Tobacco",
+    "Level 3": "Cigarettes",
+    "Level 4": "Cigarettes/Single Pack"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "B & H Flowers"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Blooming"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Burpee"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Fresh"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Fresh Tulips Usa"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Green Circle Growers"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Home Accent"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Miracle Gro"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Nurserymens Exchange"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Orchid"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Rockwell Farms"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Private Label"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Upload"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Floral",
+    "Level 3": "Van Hoekelen Greenhouses"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Home Improvement"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Home Improvement",
+    "Level 4": "Projects"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Home Improvement",
+    "Level 4": "Tools"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Home Improvement",
+    "Level 4": "Hardware & Materials"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Garden"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Garden",
+    "Level 4": "Outdoor Decor"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Garden",
+    "Level 4": "Gardening & Lawn Tools"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Garden",
+    "Level 4": "Gardening & Lawn Supplies"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Garden",
+    "Level 4": "Outdoor Grilling"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Furniture"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Furniture",
+    "Level 4": "Living Room Furniture"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Furniture",
+    "Level 4": "Mattress/Box Spring"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Furniture",
+    "Level 4": "Recliner Chair"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Furniture",
+    "Level 4": "Sofabed/Convertible"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Furniture",
+    "Level 4": "Wall Units/Systems"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Kitchen"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Kitchen",
+    "Level 4": "Water Coolers & Filtration"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Kitchen",
+    "Level 4": "Household/Kitchen Storage"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Kitchen",
+    "Level 4": "Bottles"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Bedding, Bath & Furnishings"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Bedding, Bath & Furnishings",
+    "Level 4": "Bedding/Bath/Linens"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Home & Garden",
+    "Level 3": "Bedding, Bath & Furnishings",
+    "Level 4": "Furnishings"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Clothing, Shoes, Fashion & Accessories",
+    "Level 3": "Clothing"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Clothing, Shoes, Fashion & Accessories",
+    "Level 3": "Clothing",
+    "Level 4": "Women's Apparel"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Clothing, Shoes, Fashion & Accessories",
+    "Level 3": "Clothing",
+    "Level 4": "Men's Apparel"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Clothing, Shoes, Fashion & Accessories",
+    "Level 3": "Clothing",
+    "Level 4": "Junior's Apparel"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Clothing, Shoes, Fashion & Accessories",
+    "Level 3": "Clothing",
+    "Level 4": "Baby & Kid's Apparel"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Clothing, Shoes, Fashion & Accessories",
+    "Level 3": "Clothing",
+    "Level 4": "Jewelry & Watches"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Clothing, Shoes, Fashion & Accessories",
+    "Level 3": "Clothing",
+    "Level 4": "Jeans"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Clothing, Shoes, Fashion & Accessories",
+    "Level 3": "Clothing",
+    "Level 4": "Licensed Sports Clothing"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Clothing, Shoes, Fashion & Accessories",
+    "Level 3": "Clothing",
+    "Level 4": "Athletic Shoes and Sneakers"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Oil & Filters"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Oil & Filters",
+    "Level 4": "Motor Oil"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Tires"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Tires",
+    "Level 4": "Passenger Car"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Tires",
+    "Level 4": "Pickup/SUV/Van"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Tires",
+    "Level 4": "BF Goodrich Tires"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Tires",
+    "Level 4": "Bridgestone Tires"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Tires",
+    "Level 4": "Goodyear Tires"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Tires",
+    "Level 4": "Michelin Tires"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Tires",
+    "Level 4": "Cooper Tires"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Tires",
+    "Level 4": "Firestone Tires"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Automotive Parts & Accessories",
+    "Level 3": "Tires",
+    "Level 4": "Yokohama Tires"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Electronics & Appliances",
+    "Level 3": "Appliances"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Electronics & Appliances",
+    "Level 3": "Appliances",
+    "Level 4": "Energy Efficient"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Electronics & Appliances",
+    "Level 3": "Appliances",
+    "Level 4": "Household"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Electronics & Appliances",
+    "Level 3": "Appliances",
+    "Level 4": "Kitchen"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Electronics & Appliances",
+    "Level 3": "Electronics",
+    "Level 4": "TV & Home Theatre"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Electronics & Appliances",
+    "Level 3": "Electronics",
+    "Level 4": "Camcorder & Video Cameras"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Electronics & Appliances",
+    "Level 3": "Electronics",
+    "Level 4": "Camera"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Electronics & Appliances",
+    "Level 3": "Electronics",
+    "Level 4": "Camera Type"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Electronics & Appliances",
+    "Level 3": "Electronics",
+    "Level 4": "Video Games, Movies & Music"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Bicycles"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Bicycles",
+    "Level 4": "Stationary Bike"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Golf"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Golf",
+    "Level 4": "Golf Balls"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Golf",
+    "Level 4": "Golf Clubs"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Golf",
+    "Level 4": "Golf Gloves"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Fishing"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Fishing",
+    "Level 4": "Fishing Reel"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Fishing",
+    "Level 4": "Fresh Water Fish"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Fishing",
+    "Level 4": "Fishing Rod"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Fishing",
+    "Level 4": "Salt Water Fishing"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Backpacking/Hiking"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Backpacking/Hiking",
+    "Level 4": "Backpacking Equipment"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Hunting"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Hunting",
+    "Level 4": "Hunting Clothes"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Hunting",
+    "Level 4": "Rifle for Hunting"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Hunting",
+    "Level 4": "Shotgun for Hunting"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Hunting",
+    "Level 4": "Target Shooting"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Jogging & Running"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Skiing"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Skiing",
+    "Level 4": "Ski Boots"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Skiing",
+    "Level 4": "Ski Poles"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Skiing",
+    "Level 4": "Snowboarding"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Skiing",
+    "Level 4": "Snowmobiling"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Health & Fitness"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Health & Fitness",
+    "Level 4": "Aerobics"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Health & Fitness",
+    "Level 4": "Cardio Machine"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Health & Fitness",
+    "Level 4": "Home Gym Equipment"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Health & Fitness",
+    "Level 4": "Yoga"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Camping & Outdoors"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Camping & Outdoors",
+    "Level 4": "Camping Lanterns"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Camping & Outdoors",
+    "Level 4": "Camping Tents"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Camping & Outdoors",
+    "Level 4": "Camping Trips"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Football"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Baseball & Softball"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Baseball & Softball",
+    "Level 4": "Baseball/Softball Equipment"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Hockey"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Soccer"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Tennis"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Tennis",
+    "Level 4": "Tennis Balls"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Sports & Outdoors",
+    "Level 3": "Tennis",
+    "Level 4": "Tennis Racquet"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Board Games"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Action Figure/Robot/Accessories"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Children's Books"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Construction Toys"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Educational Toys/Games"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Electronic Educational Toys"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Fashion Dolls"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Infant Toys"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Large/Baby Dolls"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Play Sports Equipment"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Plush Dolls/Animals"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Video Games"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Hobbies & Toys",
+    "Level 3": "Games",
+    "Level 4": "Word Games"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "American Express Gift cards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Mastercard Giftcards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Visa Giftcards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Bookstores Giftcards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Department/Clothing Mall Stores Giftcards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Discount Stores Giftcards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Electonics Stores Giftcards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Home/Home Improvement Stores Giftcards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Music/Entertainment Giftcards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Restaurants/Coffee Shops Giftcards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Dept/Mall Stores Giftcards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Restaurant/Coffee Shop Giftcards"
+  },
+  {
+    "Level 1": "Shopping & Retail",
+    "Level 2": "Gifts",
+    "Level 3": "Gift Cards",
+    "Level 4": "Greeting Cards"
+  }
+]
