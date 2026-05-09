@@ -184,7 +184,7 @@ const Dashboard: React.FC = () => {
       <div className="main-content">
         <div style={{ flex: 1, overflowY: 'auto', padding: '40px 100px', display: 'flex', flexDirection: 'column', gap: '24px' }}>
           <AnimatePresence>
-            {messages.map((msg, i) => (
+            {messages.map((msg) => (
               <motion.div 
                 key={msg.id}
                 initial={{ opacity: 0, x: msg.role === 'user' ? 20 : -20 }}
