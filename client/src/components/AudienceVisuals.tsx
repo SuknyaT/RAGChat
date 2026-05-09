@@ -7,7 +7,7 @@ interface AudienceVisualsProps {
   insights?: string;
 }
 
-const AudienceVisuals: React.FC<AudienceVisualsProps> = ({ signals, insights }) => {
+const AudienceVisuals: React.FC<AudienceVisualsProps> = ({ signals: _signals, insights }) => {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
       
