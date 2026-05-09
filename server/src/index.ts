@@ -1,9 +1,9 @@
 import express from 'express';
 import path from 'path';
+import crypto from 'crypto';
 
 import cors from 'cors';
 import dotenv from 'dotenv';
-import { v4 as uuidv4 } from 'uuid';
 import bcrypt from 'bcryptjs';
 import { initDb, getDb } from './db';
 import { authenticate, authorize, generateToken, AuthRequest } from './middleware/auth';
@@ -36,7 +36,7 @@ app.post('/api/users', authenticate, authorize(['admin']), async (req, res) => {
   const { username, password, role } = req.body;
   const db = getDb();
   const hashedPassword = await bcrypt.hash(password, 10);
-  const id = uuidv4();
+  const id = crypto.randomUUID();
   
   try {
     await db.run('INSERT INTO users (id, username, password, role) VALUES (?, ?, ?, ?)', [id, username, hashedPassword, role]);
@@ -56,7 +56,7 @@ app.get('/api/conversations', authenticate, async (req: AuthRequest, res) => {
 app.post('/api/conversations', authenticate, async (req: AuthRequest, res) => {
   const { title } = req.body;
   const db = getDb();
-  const id = uuidv4();
+  const id = crypto.randomUUID();
   const now = new Date().toISOString();
   
   await db.run('INSERT INTO conversations (id, userId, title, lastUpdated) VALUES (?, ?, ?, ?)', [id, req.user!.id, title, now]);
@@ -78,7 +78,7 @@ app.post('/api/conversations/:id/messages', authenticate, async (req: AuthReques
   const conversationId = req.params.id;
   
   // 1. Save user message
-  const userMsgId = uuidv4();
+  const userMsgId = crypto.randomUUID();
   const now = new Date().toISOString();
   await db.run('INSERT INTO messages (id, conversationId, role, content, timestamp) VALUES (?, ?, ?, ?, ?)', 
     [userMsgId, conversationId, 'user', content, now]);
@@ -91,7 +91,7 @@ app.post('/api/conversations/:id/messages', authenticate, async (req: AuthReques
     const aiResponse = await interpretAudienceRequest(content, history);
     
     // 4. Save AI message
-    const aiMsgId = uuidv4();
+    const aiMsgId = crypto.randomUUID();
     await db.run('INSERT INTO messages (id, conversationId, role, content, signals, estimatedSize, timestamp) VALUES (?, ?, ?, ?, ?, ?, ?)', 
       [aiMsgId, conversationId, 'assistant', aiResponse.content, JSON.stringify(aiResponse.signals), aiResponse.estimatedSize, new Date().toISOString()]);
 
@@ -129,10 +129,10 @@ initDb().then(async () => {
   const admin = await db.get('SELECT * FROM users WHERE username = ?', ['admin']);
   if (!admin) {
     const hashedPassword = await bcrypt.hash('admin123', 10);
-    await db.run('INSERT INTO users (id, username, password, role) VALUES (?, ?, ?, ?)', [uuidv4(), 'admin', hashedPassword, 'admin']);
+    await db.run('INSERT INTO users (id, username, password, role) VALUES (?, ?, ?, ?)', [crypto.randomUUID(), 'admin', hashedPassword, 'admin']);
     
     const plannerPassword = await bcrypt.hash('planner123', 10);
-    await db.run('INSERT INTO users (id, username, password, role) VALUES (?, ?, ?, ?)', [uuidv4(), 'planner', plannerPassword, 'planner']);
+    await db.run('INSERT INTO users (id, username, password, role) VALUES (?, ?, ?, ?)', [crypto.randomUUID(), 'planner', plannerPassword, 'planner']);
     console.log('Default users created: admin/admin123, planner/planner123');
   }
 
