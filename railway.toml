@@ -1,0 +1,8 @@
+[build]
+buildCommand = "npm run build"
+
+[deploy]
+startCommand = "node server/dist/index.js"
+
+[deploy.variables]
+RAILPACK_INSTALL_CMD = "npm ci --include=dev && npm ci --include=dev --prefix server && npm ci --include=dev --prefix client"
